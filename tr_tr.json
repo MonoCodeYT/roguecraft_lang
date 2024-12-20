@@ -1,11 +1,9 @@
 {
-  "language.roguecraft.translation_authors": "Slaughternymph",
-
+  "language.roguecraft.translation_authors": "",
   "enchantment.level.0": "0",
   "block.minecraft.structure_void": "Hüner Puanı",
   "block.minecraft.structure_block": "Hüner Mücevheri",
-  "container.enderchest": "\uEff2\uF80A    Ekipman",
-
+  "container.enderchest": "    Ekipman",
   "roguecraft.generic.loadout": "Ekipman",
   "roguecraft.generic.cost": "Maliyet",
   "roguecraft.generic.current_sp": "Mevcut Hüner Puanları",
@@ -16,21 +14,18 @@
   "roguecraft.generic.strength": "Güç",
   "roguecraft.generic.ability": "Yetenek",
   "roguecraft.generic.soul_charge": "Ruh Yükü",
-
   "roguecraft.item.ability": "%s %s",
   "roguecraft.item.start_run": "Oyunu Başlat",
   "roguecraft.item.unready": "Hazır Değil",
   "roguecraft.item.join_run": "Oyuna Katıl",
   "roguecraft.item.remove_upgrade": "Sökücü",
   "roguecraft.item.scythe": "%s Tırpan",
-  
   "roguecraft.prefix.wooden": "Tahta",
   "roguecraft.prefix.stone": "Taş",
   "roguecraft.prefix.golden": "Altın",
   "roguecraft.prefix.iron": "Demir",
   "roguecraft.prefix.diamond": "Elmas",
   "roguecraft.prefix.netherite": "Netherit",
-  
   "roguecraft.bossbar.difficulty_level": "Zorluk Seviyesi: %s",
   "roguecraft.bossbar.liquid_walker": "Sıvıda Koşan",
   "roguecraft.bossbar.dirt_walker": "Toprak Koşan",
@@ -43,24 +38,20 @@
   "roguecraft.bossbar.welcome_1": "Roguecraft'a Hoş Geldin!",
   "roguecraft.bossbar.welcome_2": "Bir Minecraft Roguelite Data Packi",
   "roguecraft.bossbar.hub": "Ev",
-
   "roguecraft.compass.fortress": "Nether Kalesi",
   "roguecraft.compass.stronghold": "Stronghold",
   "roguecraft.compass.nether": "Nether'a Git",
   "roguecraft.compass.entry": "Nether Girişi",
-
   "roguecraft.title.victory": "Zafer!",
   "roguecraft.title.defeat": "Bozgun",
   "roguecraft.title.run_end_dragon": "Ejderha Katledildi",
   "roguecraft.title.enter_end": "End Ejderhası",
   "roguecraft.title.infinite_garden": "Ebedi Bahçe",
   "roguecraft.title.cosmic_dome": "Kozmik Kubbe",
-
   "roguecraft.chat_messages.sp": "%s✦ kazandın! Toplamda %s✦ sahipsin.",
   "roguecraft.chat_messages.sp_advancement": "Bir başarım tamamladığın için %s✦ kazandın! Toplamda %s✦ sahipsin.",
   "roguecraft.chat_messages.sp_ender_dragon": "End Ejderhası'nı mağlup ettiğin için %s✦ kazandın! Toplamda %s✦ sahipsin.",
   "roguecraft.chat_messages.sp_wildfire": "Yaban Ateşi'ni mağlup ettiğin için %s✦ kazandın! Toplamda %s✦ sahipsin.",
-  
   "roguecraft.chat_messages.stronghold_generate": "%s %s konumunda bir Stronghold belirdi!",
   "roguecraft.chat_messages.stronghold_location": "Stronghold %s %s konumunda.",
   "roguecraft.chat_messages.stronghold_location_error": "Henüz bir Stronghold belirmedi.",
@@ -85,7 +76,6 @@
   "roguecraft.chat_messages.ability_no_mana": "Bu yeteneği kullanmak için yeterli Mana'ya sahip değilsin",
   "roguecraft.chat_messages.ability_no_soul_charge": "Bu yeteneği kullanmak için yeterli Ruh Yükü'ne sahip değilsin",
   "roguecraft.chat_messages.ability_no_entity_nearby": "Bu yeteneği kullanmak için yakında bir düşman yok.",
-  
   "roguecraft.chat_messages.upgrade": "geliştirme",
   "roguecraft.chat_messages.upgrade_buy": "%s seviyesi geliştirildi",
   "roguecraft.chat_messages.upgrade_sell": "%s seviyesi geri alındı",
@@ -108,11 +98,8 @@
   "roguecraft.chat_messages.class_select": "%s sınıfını kendi %sın olarak seçtin",
   "roguecraft.chat_messages.class_buy": "%s %sını açtın",
   "roguecraft.chat_messages.class_sell": "%s %sını kaldırdın",
-  
   "roguecraft.chat_messages.unlock_upgrades": "Bir boss keserek yeni geliştirmelerin kilidini açtın!",
-  
   "roguecraft.chat_messages.chester": "Ruh sana karşı sırıttı...",
-  
   "roguecraft.hub.name.upgrades": "Geliştirmeler",
   "roguecraft.hub.name.abilities": "Yetenekler",
   "roguecraft.hub.name.classes": "Sınıflar",
@@ -120,7 +107,6 @@
   "roguecraft.hub.name.seal": "Mühür Odası",
   "roguecraft.hub.name.tutorial": "Öğretici",
   "roguecraft.hub.name.cosmic_dome": "Kozmik Kubbe",
-
   "roguecraft.upgrade.name.defense": "Korunma",
   "roguecraft.upgrade.name.max_health": "Maks. Can",
   "roguecraft.upgrade.name.speed": "Hız",
@@ -164,7 +150,6 @@
   "roguecraft.upgrade.name.mana_regen": "Mana Yenilenmesi",
   "roguecraft.upgrade.name.max_mana": "Maks. Mana",
   "roguecraft.upgrade.name.dummy_upgrade": "Geliştirme Kuklası",
-  
   "roguecraft.ability.name.ability_explosion": "Patlama",
   "roguecraft.ability.name.ability_mining": "Bölgesel Kazıcı",
   "roguecraft.ability.name.ability_arrow_wave": "Şok Dalgası",
@@ -185,7 +170,6 @@
   "roguecraft.ability.description.ability_spikes": "Yakındaki tüm yaratıklara karşı büyük hasar verir",
   "roguecraft.ability.description.ability_levitate": "Size yükselme etkisi verir",
   "roguecraft.ability.description.ability_dirt_walker": "Altınıza toprak yerleştirerek havada yürümenize olanak sağlar",
-  
   "roguecraft.class.name.tank": "Tank",
   "roguecraft.class.name.mage": "Büyücü",
   "roguecraft.class.name.healer": "Şifacı",
@@ -204,7 +188,6 @@
   "roguecraft.class_ability.reaper": "İntikamcı Hayalet",
   "roguecraft.class_cost.reaper": "Tüm Ruhlar",
   "roguecraft.class_ability.glass_cannon_error": "Bu yeteneği kullanmak için 3'ten fazla kalbe ihtiyacınız var",
-  
   "roguecraft.advancement.name.all_dummy": "0 fiyatına 100",
   "roguecraft.advancement.name.avatar": "Avatar",
   "roguecraft.advancement.name.completion": "100%",
@@ -257,7 +240,6 @@
   "roguecraft.advancement.description.destroy_hub": "Kozmik Kubbe'yi kırmaya çalışın (bir şekilde kırıp yapımcıya bildirirseniz ekstra skill puanı ödülü) ",
   "roguecraft.advancement.description.infinite_garden_void": "Edebi Bahçe'de ölün",
   "roguecraft.advancement.description.first_ability": "İlk Yeteneğinizi satın alın",
-  
   "roguecraft.obelisk.corpus.inactive": "...",
   "roguecraft.obelisk.sol.inactive": "Varlığımı kendi değersiz varlığınla kirletme, seni şapşal. Yok ol! ",
   "roguecraft.obelisk.custos.main": "Ben Nether Kalesi'nin koruyucusuyum. Benimle yüzleş, o Alazların doğum mekanında!",
@@ -268,7 +250,6 @@
   "roguecraft.obelisk.anima.inactive": "Muhafaza için doğdum, kudretim her an artıyor, Üstadıma varmak istersen, en kudretli halimde karşıma çık.",
   "roguecraft.obelisk.fatum.inactive": "Ebedî ruh, vakit henüz tamam değil. Pek büyük sabrını rica ediyorum.",
   "roguecraft.obelisk.divus.inactive": "* Antik Anıt'ın varlığı korku içinde titremene sebep oluyor.",
-
   "roguecraft.loadout.sword": "Kılıç",
   "roguecraft.loadout.pickaxe": "Kazma",
   "roguecraft.loadout.shovel": "Kürek",
@@ -278,7 +259,6 @@
   "roguecraft.loadout.golden_apple": "Altın Elma",
   "roguecraft.loadout.pearl": "İnciler",
   "roguecraft.loadout.lore": "Ekipmanını değiştirmek için kullanılır",
-
   "please_install_resource_pack_and_relog": "Tanıtım",
   "roguecraft.tutorial.title.vanilla_changes": "Vanilla Değişiklikleri",
   "roguecraft.tutorial.title.difficulty_level": "Zorluk Seviyesi",
@@ -288,22 +268,19 @@
   "roguecraft.tutorial.title.shops": "Marketler",
   "roguecraft.tutorial.title.abilities_and_classes": "Yetenekler ve Sınıflar",
   "roguecraft.tutorial.title.cosmic_dome": "Kozmik Kubbe",
-
   "roguecraft.tutorial.introduction.page_0": "------§oTanıtım§r-------\nMinecraft'ı bir roguelite oyununa dönüştürmeyi hedefleyen Roguecraft'a hoş geldin. Bir Roguelite oyununun ne olduğunu zaten biliyorsan gönül rahatlığı ile sayfa 4'e ilerleyebilirsin. Roguelite, roguelike türünün bir varyasyonudur.",
   "roguecraft.tutorial.introduction.page_1": "Özetle, dünya rastgele oluşturulur ve oyun süreci birden fazla oyun seansına ayrılır. Roguelike oyunlarda öldüğünüzde tüm ilerlemenizi kaybedersiniz, ancak roguelite oyunlarda bazı ilerlemelerinizi koruyabilirsiniz. Bu durumda kalıcı yükseltmeleri Ender Ejderhasını öldürme",
   "roguecraft.tutorial.introduction.page_2": "ve bu datapack'i bitirme yolculuğunuzda size yardımcı olmaları için açabilirsiniz.\n\nBu yükseltmeler zamanla size oyunu baştan sona tek bir oyun seansında bitirmeniz için yeterli olacak.",
   "roguecraft.tutorial.introduction.page_3": "------§oÖğretici§r------\nŞu anda kozmik kubbenin genel merkezi olan bu veri paketinin bir parçası olan öğretici bölümündesiniz. Diğer kürsüde ise veri paketinin yaptığı yeni eklemeler ve değişiklikler hakkında bilgi bulabilirsiniz. Verdiğimiz bilgiler oyunu oynamak için",
   "roguecraft.tutorial.introduction.page_4": "önemli değil ama sizin için oldukça faydalı olacaktır. Önemli olan tek istisna ise sol taraftaki ilk kürsünün arkasındaki eşya çerçevesinde bulunan tariflerdir. Eğer isterseniz her zaman öğreticiye geri dönebilirsiniz. Eğer kendi başınıza gitmek isterseniz, sol tarafta bulunan tariflerin",
   "roguecraft.tutorial.introduction.page_5": "ekran görüntüsünü alıp oynayabilirsiniz. Eğer öğreticiyi takip etmek isterseniz, bu odadaki kürsülere bir göz atabilirsiniz.\nNe karar verirseniz verin, Roguecraft'ta size bol şans ve keyifli oyunlar dilerim!",
-  "roguecraft.tutorial.introduction.page_6": "Herhangi bir çeviri hatası için lütfen discord üzerinden lütfen bana ulaşınız: slaughternymph",
-  
+  "roguecraft.tutorial.introduction.page_6": "",
   "roguecraft.tutorial.skillpoints.page_0": "---§oHüner Puanları§r---\nHüner puanları bu datapackdeki en önemli kaynaklardır. Bunlar Kozmik Kubbe'den geliştirmeler, yetenekler ve sınıflar satın almanıza yararlar. Hüner Puanlarını elde etmenin iki yolu vardır. Birincisi bu kürsünün arkasındaki tarifler ile onları craft etmektir.",
   "roguecraft.tutorial.skillpoints.page_1": "İlk tarif size 1 Hüner Puanı,\nİkinci tarif size 2 Hüner Puanı,\nÜçüncü tarif ise size 4 Hüner Puanı verir.\nHüner Mücevherleri ile ilgili daha detaylı bilgi Sayfa 4'te mevcuttur.\nİkinci yol ise kısaca minecraft başarımlarını tamamlamaktır. Her bir başarımdan 1 Hüner Puanı elde edersiniz.",
   "roguecraft.tutorial.skillpoints.page_2": "Unutmayın ki Hüner Puanları Yeni bir tura başladığınızda sıfırlanır, bu yüzden tüm Hüner Puanlarınızı yeni bir tura başlamadan önce Kozmik Kubbe'de harcamayı unutmayın!",
   "roguecraft.tutorial.skillpoints.page_3": "-§oHüner Mücevherleri§r-\nHüner Mücevherleri, Hüner Puanları craftlamak için gereken ana malzemedir (Bu kürsünün arkasındaki tariflerin ortasındaki item). Sadece xp seviyesi atlanarak elde edilebilir, yani oldukça değerlidirler. Bunun üstüne leveliniz ne kadar yüksekse",
   "roguecraft.tutorial.skillpoints.page_4": "Hüner Mücevheri kazanmanız da o kadar zorlaşır. Eğer bir şekilde xp seviyenizi düşürmeyi başarırsanız, daha önceden açtığınız seviyeleri tekrar açmanız durumunda Hüner Mücevheri KAZANAMAZSINIZ. Örneğin, lvl21 den 20 ye düşüp, tekrar lvl21 olursanız.",
-  "roguecraft.tutorial.skillpoints.page_5": "Hüner Mücevheri almayacaksınız.",
-  
+  "roguecraft.tutorial.skillpoints.page_5": "",
   "roguecraft.tutorial.shops.page_0": "§r-----§oMarketler§r-----\nMarketler bu veri paketinin önemli parçalarından biridir. Kozmik Kubbe'de bulunurlar ve Hüner Puanlarınızı Geliştirmeler, Yetenekler ve Sınıflar üzerinde harcamanıza olanak sağlarlar. Sağdaki Geliştirme Kuklasından ücretsiz ve işe yaramayan",
   "roguecraft.tutorial.shops.page_1": "geliştirmeler satın alıp Marketin nasıl çalıştığına dair bir fikir edinmek için göz atabilirsiniz.\n4 farklı Market türü vardır. Birincisi sağdaki Geliştirme Kuklası ile aynı çalışan 'Geliştirme Marketi' dir.\nSiz son seviyeye ulaşana kadar aynı ücretten geliştirmeler satarlar.",
   "roguecraft.tutorial.shops.page_2": "Bir diğer market türü ise 'İlerleyici Market' tir. fiyatlarını üstündeki metinlerde bulundurmazlar, aksine araç çubuğunuzun üstündeki metnin içinde bulunurlar çünkü siz yeni bir geliştirme açtığınızda bu geliştirmelerin fiyatları da artar.",
@@ -314,7 +291,6 @@
   "roguecraft.tutorial.shops.page_7": "tamamen kilitli olduğunu gösterirken, Gümüş kilitler o geliştirmenin bazılarını, bronz kilitler ise o geliştirmenin çoğunu açabileceğinizi gösterir. Kilit olmayan marketler ise o geliştirmenin tamamını açabileceğiniz anlamına gelir.",
   "roguecraft.tutorial.shops.page_8": "-§oGeliştirme Sökmek§r-\nEğer bir geliştirmenin seviyesini azaltmak isterseniz, elinizde 'Sökücü' aletini §leğilirken§r seviyesini azaltmak istediğiniz geliştirmeye sağ tıklamanız yeterlidir.\n\nÖNEMLİ: Geri alınan geliştirmeler yok olur, karşılığında tekrar Hüner Puanı VERİLMEZ!§",
   "roguecraft.tutorial.shops.page_9": "",
-  
   "roguecraft.tutorial.abilities_and_classes.page_0": "-----§oYetenekler§r-----\nYetenekler güçlü, atkif büyülerdir. Kozmik Kubbe'den satın alınılabilirler. Aldıkdan sonra, yetenekleri oyun içerisinde kullanabilmek için araç çubuğunuzdaki atamak istediğiniz yetenek eşyasını elinizde tutarak atamak istediğiniz yeteneğe sağ tıklamalısınız.",
   "roguecraft.tutorial.abilities_and_classes.page_1": "Toplamda atama yapabileceğiniz 3 yetenek slotunuz vardır. Ama eğer Büyücü sınıfını seçerseniz 1 tane daha ekstradan yetenek slotunuz olur.\nYetenekler eğer atama yaptıysanız oyun esnasında envanterinizde gözükür. Herhangi bir bekleme süreleri",
   "roguecraft.tutorial.abilities_and_classes.page_2": "yoktur, ama kullanmak için mana gerektirirler.",
@@ -323,25 +299,21 @@
   "roguecraft.tutorial.abilities_and_classes.page_5": "------§oSınıflar§r-------\nSınıflar, Hüner Puanları ile açılabilen güçlü arketiplerdir. Size pasif bonusların yanında yeni bir sınıf yeteneği verirler.\nBir sınıfı satın alıp ona tıklarsanız o sınıfı seçersiniz, tekrar tıklayarak bu seçimi kaldırabilirsiniz.\nAynı anda sadece 1 sınıf seçebilirsiniz.",
   "roguecraft.tutorial.abilities_and_classes.page_6": "--§oSınıf Yetenekleri§r---\nSınıf yetenekleri 2 istisna hariç sınıflara bağlı olarak gelen yeteneklerdir. Bu 2 istisna ise Büyücü ile Kristal Cengaver'dir. Kristal Cengaver Adrenalin ile canını azaltıp verdiği hasarı arttırabilirken, Büyücü sınıfı için bu 4. yetenek slotudur.",
   "roguecraft.tutorial.abilities_and_classes.page_7": "",
-  
   "roguecraft.tutorial.vanilla_changes.page_0": "-§oVanilla Değişiklikleri§r-\nBu datapack'i oynarken elde edebileceğiniz geliştirmeler oldukça güçlü. Bunu dengelemek için, oyunun kendisinde önemli ölçüde değişiklikler yapmamız gerekti.\nİlk değişikliklerden birisi ise başlangıç canınızın 10 kalpten",
   "roguecraft.tutorial.vanilla_changes.page_1": "5 kalbe indirmemiz oldu. Bu hayatta kalmayı oyun başlarında oldukça zorlu yapacaktır, bu yüzden ilk yatırımlarınızı canınızı arttırmak yönünde yapmanız sizin için daha iyi olabilir.\nYaptığımız ikinci değişiklik ise bundan daha etkili. Geliştirme olarak zırh ve alet",
   "roguecraft.tutorial.vanilla_changes.page_2": "alabildiğinizden dolayı, bunların üretimini imkansız hale getirdik. Üretebileceğiniz diğer alet/silah/zırhlar ise kova, çakmaktaşı, olta, arbalet, kaplumbağa kaskı, makas ve kalkanlar. Eğer bunlara da izin vermeseydik oyunu bitirmek imkansız hale gelirdi.",
   "roguecraft.tutorial.vanilla_changes.page_3": "Oyuna bir taş kazma ile başlıyorsunuz. Bu, pratikte lav ve su kullanak nether portalı açmak gibi bazı speedrun tekniklerinin kombinasyonu ile, oyunu bitirmek için yeterli. Ayrıca geliştirmeler ile elde ettiğiniz eşyalar ve silahların dayanaklılığı yok, yani kırılmaları imkansızdır.",
   "roguecraft.tutorial.vanilla_changes.page_4": "Son olarak, her ne kadar bu tarifler imkansız olsa da, bunları halen ganimet sandıklarından ve köylü ticaretlerinden elde edebilirsiniz, her ne kadar strateji olarak pek işlevsel olmasa da, bazı durumlarda oldukça işinize yarayacaktır.",
   "roguecraft.tutorial.vanilla_changes.page_5": "",
-  
   "roguecraft.tutorial.difficulty_level.page_0": "---§oZorluk Seviyesi§r---\nZorluk seviyesi bu datapack'in en önemli zorluk eklentilerinden biridir. Ekranınızın üstünde gözüküp yavaşça dolacaktır, taa ki yeni bir seviye açılana kadar.\nSeviye 1'de, Vanilla'ya kıyasla hiçbir şey değişmez. Ancak zorluk seviyesi 2 ye geldiği zaman",
   "roguecraft.tutorial.difficulty_level.page_1": "tüm yaratıklar farklı güçlendirmeler kazanırlar. Bu iskeletler ve zombilere zırh vermekten, Creeperların patlama yarıçaplarının büyümesine, hatta sonunda tüm yaratıkların bir Ölmeme Totemi tutmasına kadar uzanır. \nSeviye 10'a geldiği zaman bu yaratık",
   "roguecraft.tutorial.difficulty_level.page_2": "güçlendirmeleri son bulur, ancak her seviyede canınız 2 kalp azalmaya başlar. Mesela seviye 11'de 2 kalp, seviye 12'de bir 2 kalp, seviye 13'de bir 2 kalp daha şeklinde tüm oyuncular tek kalp kalana kadar devam eder. ",
   "roguecraft.tutorial.difficulty_level.page_3": "Tüm bu değişikliklerden dolayı, eğer oyunu bitirmek istiyorsanız oyunda daha hızlı gelişmeye teşvik edilirsiniz.\nTecrübesiz oyuncuların bile oyunu bitirmesi oldukça kolaydır, ancak avantaj kazanmak istiyorsanız speedrun teknikleri öğrenmenizi oldukça tavsiye ederim",
   "roguecraft.tutorial.difficulty_level.page_4": "",
-  
   "roguecraft.tutorial.progression.page_0": "------§oİlerleme§r------\nİlerleyiş bu datapack'de tekrardan elden geçti. Genel olarak, eğer yardıma ihtiyacınız varsa, bir Manyetit Pusulası satın alın. Bu pusula sizi yeni hedefinize yönlendirecektir. Ancak pusulayı ana elinizde tutmazsanız pusula güncellenmeyecektir.",
   "roguecraft.tutorial.progression.page_1": "Unutmayın ki Stronghold belirdikten sonra End Gözleri sizi Stronghold'a YÖNLENDİRMEYECEKTİR. Stronghold konumu chat kısmında Stronghold belirdiği zaman söylenecektir. /trigger stronghold_location komutu ile tekrar stronghold konumunu chatte görebilirsiniz.",
   "roguecraft.tutorial.progression.page_2": "----§oAntik Anıtlar§r------\nKozmik Kubbe'nin güney tarafında tuhaf bir oda bulunmaktadır. Ordaki Antik Anıtların herhangi birine sağ tıklamayı deneyin, belki sizi Son'a götürmede yardımcı olurlar.",
   "roguecraft.tutorial.progression.page_3": "",
-
   "roguecraft.tutorial.cosmic_dome.page_0": "----§oKozmik Kubbe§r----\nŞu anda  Kozmik Kubbe'nin altındasınız, bu datapack'in 'ev' bölgesi. Kendisi, Edebi Bahçe ile birlikte İlerleme adına birkaç önemli oda bulundurmaktadır.",
   "roguecraft.tutorial.cosmic_dome.page_1": "-----§oEnvanter§r-----\nKozmik Kubbe'nin içindeyken envanterinizde birkaç eşya olacaktır. Bunların ilk bikaçı 'Yetenek Eşyaları' olarak adlandırılır ve Yetenek Marketlerindeki satın alınmış yeteneklere eşya elde tutularak sağ tıklanıp yetenek atamaya yararlar.",
   "roguecraft.tutorial.cosmic_dome.page_2": "Sonraki eşyamız ise 'Sökücü'. Bu eşyayı elinizde tutarak geliştirmelere shift sağ klik atarsanız o eşyanın geliştirme seviyesini azaltabilirsiniz. Unutmayın ki bu eşya size Hüner Puanlarınızı geri vermez, istemediğiniz geliştirmeleri kaldırmaya yarar.",
@@ -352,26 +324,20 @@
   "roguecraft.tutorial.cosmic_dome.page_7": "ederek tekrar elde edebilirsiniz.\nBu bölgede oyunda ilerleme kat ettikçe hayvanlarla karşılaşabilirsiniz. Tek bir turda elde ettiğiniz Hüner Puanı sayısına göre karşılaşabileceğiniz hayvan sayısı da değişecektir. Tek seferde 500 Hüner Puanı elde ederseniz",
   "roguecraft.tutorial.cosmic_dome.page_8": "belki özel bir ruh ile karşılalabilirsiniz.\nEğer Edebi Kubbe'de kaybolursanız /trigger hub_tp komutu ile Kozmik Kubbe'ye tekrar dönebilirsiniz.",
   "roguecraft.tutorial.cosmic_dome.page_9": "",
-
   "biome.roguecraft.infinite_garden": "Edebi Bahçe",
-
   "roguecraft.speedrun.timer": "Speedrun Sayacı",
   "roguecraft.speedrun.single_run": "Tek Tur",
   "roguecraft.speedrun.new_world": "Yeni Dünya",
   "roguecraft.speedrun.wildfire_message": "[%s] Yaban Ateşini %s içinde katlettin",
   "roguecraft.speedrun.ender_dragon_message": "[%s] End ejderhasını %s içinde katlettin",
-  
   "roguecraft.chat_messages.enable_single_run_timer": "Tek Tur speedrun sayacını aktif ettin",
   "roguecraft.chat_messages.disable_single_run_timer": "Tek Tur speedrun sayacını deaktif ettin",
   "roguecraft.chat_messages.enable_new_world_timer": "Yeni Dünya speedrun sayacını aktif ettin",
   "roguecraft.chat_messages.disable_new_world_timer": "Yeni Dünya speedrun sayacını deaktif ettin",
-  
   "roguecraft.chat_messages.golden_scythe_no_requirements": "Bunun için gereksinimleri henüz karşılamıyorsun",
   "roguecraft.chat_messages.golden_scythe_equip": "Artık altın tırpanın ebedî gücüne vakıfsın",
   "roguecraft.chat_messages.golden_scythe_unequip": "Altın tırpanın ezici ve kudretli varlığından kendini zarafetle geri çekiyorsun",
-
+  "death.attack.generic.item": "%s discovered that their actions have consequences",
   "if_you_see_this_message_then_you_need_to_download_the_resource_pack_from_modrinth": "",
-  "if_you_already_installed_the_resource_pack_try_to_relog": "",
-
-  "death.attack.generic.item": "%s discovered that their actions have consequences"
+  "if_you_already_installed_the_resource_pack_try_to_relog": ""
 }

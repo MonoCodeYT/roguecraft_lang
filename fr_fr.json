@@ -1,11 +1,9 @@
 {
-  "language.roguecraft.translation_authors": "Franco227 & Moonlitjei",
-
+  "language.roguecraft.translation_authors": "",
   "enchantment.level.0": "0",
   "block.minecraft.structure_void": "Point de Talent",
   "block.minecraft.structure_block": "Gemme de Talent",
-  "container.enderchest": "\uEff2\uF80A    Configuration",
-
+  "container.enderchest": "    Configuration",
   "roguecraft.generic.loadout": "Configuration",
   "roguecraft.generic.cost": "Coût",
   "roguecraft.generic.current_sp": "Points de Talent actuels",
@@ -16,21 +14,18 @@
   "roguecraft.generic.strength": "Force",
   "roguecraft.generic.ability": "Compétence",
   "roguecraft.generic.soul_charge": "Charge d'Âme",
-
   "roguecraft.item.ability": "%s %s",
   "roguecraft.item.start_run": "Commencer la Partie",
   "roguecraft.item.unready": "Non Prêt",
   "roguecraft.item.join_run": "Rejoindre la Partie",
   "roguecraft.item.remove_upgrade": "Régresseur d'Amélioration",
   "roguecraft.item.scythe": "Faux en %s",
-  
   "roguecraft.prefix.wooden": "Bois",
   "roguecraft.prefix.stone": "Pierre",
   "roguecraft.prefix.golden": "Or",
   "roguecraft.prefix.iron": "Fer",
   "roguecraft.prefix.diamond": "Diamant",
   "roguecraft.prefix.netherite": "Netherite",
-  
   "roguecraft.bossbar.difficulty_level": "Niveau de Difficulté: %s",
   "roguecraft.bossbar.liquid_walker": "Marcheur des Liquides",
   "roguecraft.bossbar.dirt_walker": "Marcheur de Terre",
@@ -43,24 +38,20 @@
   "roguecraft.bossbar.welcome_1": "Bienvenue sur Roguecraft",
   "roguecraft.bossbar.welcome_2": "Un Data Pack Minecraft Roguelite",
   "roguecraft.bossbar.hub": "Le Hub",
-
   "roguecraft.compass.fortress": "Forteresse du Nether",
   "roguecraft.compass.stronghold": "Stronghold",
   "roguecraft.compass.nether": "Allez dans le Nether",
   "roguecraft.compass.entry": "Portail du Nether",
-
   "roguecraft.title.victory": "Victoire!",
   "roguecraft.title.defeat": "Défaite",
   "roguecraft.title.run_end_dragon": "Dragon Abattu",
   "roguecraft.title.enter_end": "L'Ender Dragon",
   "roguecraft.title.infinite_garden": "Le Jardin Infini",
   "roguecraft.title.cosmic_dome": "Le Dôme Cosmique",
-
   "roguecraft.chat_messages.sp": "Vous avez gagné %s✦! Vous avez à présent %s✦ au total.",
   "roguecraft.chat_messages.sp_advancement": "Vous avez gagné %s✦ pour avoir complété un Succès! Vous avez à présent %s✦ au total.",
   "roguecraft.chat_messages.sp_ender_dragon": "Vous avez gagné %s✦ pour avoir vaincu l'Ender Dragon! Vous avez à présent %s✦ au total.",
   "roguecraft.chat_messages.sp_wildfire": "Vous avez gagné %s✦ pour avoir vaincu l'Incendiaire! Vous avez à présent %s✦ au total.",
-  
   "roguecraft.chat_messages.stronghold_generate": "Un Stronghold a été généré aux coordonnées %s %s",
   "roguecraft.chat_messages.stronghold_location": "Le Stronghold est situé aux coordonnées %s %s",
   "roguecraft.chat_messages.stronghold_location_error": "Le Stronghold n'a pas encore été généré",
@@ -85,7 +76,6 @@
   "roguecraft.chat_messages.ability_no_mana": "Vous n'avez pas assez de Mana pour cette compétence",
   "roguecraft.chat_messages.ability_no_soul_charge": "Vous n'avez pas assez d'Âmes pour cette compétence",
   "roguecraft.chat_messages.ability_no_entity_nearby": "Aucune cible proche pour cette compétence",
-  
   "roguecraft.chat_messages.upgrade": "amélioration",
   "roguecraft.chat_messages.upgrade_buy": "Vous améliorez %s",
   "roguecraft.chat_messages.upgrade_sell": "Vous régressez %s",
@@ -104,15 +94,12 @@
   "roguecraft.chat_messages.ability_equip_a4": "quatrième",
   "roguecraft.chat_messages.ability_equip_error": "La compétence %s est déjà définie comme %s %s",
   "roguecraft.chat_messages.class_deselect": "Vous avez désélectionné la classe %s",
-  "roguecraft.chat_messages.class": "",
+  "roguecraft.chat_messages.class": "class",
   "roguecraft.chat_messages.class_select": "Vous avez sélectionné la classe %s",
   "roguecraft.chat_messages.class_buy": "Vous avez débloqué la classe %s",
   "roguecraft.chat_messages.class_sell": "Vous avez retiré la classe %s",
-  
   "roguecraft.chat_messages.unlock_upgrades": "Vous avez débloqué de nouvelles améliorations en vainquant un boss!",
-  
   "roguecraft.chat_messages.chester": "L'Esprit vous sourit...",
-  
   "roguecraft.hub.name.upgrades": "Améliorations",
   "roguecraft.hub.name.abilities": "Compétences",
   "roguecraft.hub.name.classes": "Classes",
@@ -120,7 +107,6 @@
   "roguecraft.hub.name.seal": "Le Sceau",
   "roguecraft.hub.name.tutorial": "Tutoriel",
   "roguecraft.hub.name.cosmic_dome": "Dôme Cosmique",
-
   "roguecraft.upgrade.name.defense": "Défense",
   "roguecraft.upgrade.name.max_health": "Vie Maximum",
   "roguecraft.upgrade.name.speed": "Vitesse",
@@ -164,7 +150,6 @@
   "roguecraft.upgrade.name.mana_regen": "Régénération du Mana",
   "roguecraft.upgrade.name.max_mana": "Mana Maximum",
   "roguecraft.upgrade.name.dummy_upgrade": "Amélioration Factice",
-  
   "roguecraft.ability.name.ability_explosion": "Explosion",
   "roguecraft.ability.name.ability_mining": "Foreuse",
   "roguecraft.ability.name.ability_arrow_wave": "Onde de Choc de Flèches",
@@ -185,7 +170,6 @@
   "roguecraft.ability.description.ability_spikes": "Vous permet de parer n'importe quel dégât entrant si utilisé au bon moment",
   "roguecraft.ability.description.ability_levitate": "Vous donne un effet de lévitation temporaire",
   "roguecraft.ability.description.ability_dirt_walker": "Crée un chemin de terre sous vos pieds, vous permettant de marcher dans les airs",
-  
   "roguecraft.class.name.tank": "Tank",
   "roguecraft.class.name.mage": "Mage",
   "roguecraft.class.name.healer": "Guérisseur",
@@ -204,7 +188,6 @@
   "roguecraft.class_ability.reaper": "Spectre Vengeur",
   "roguecraft.class_cost.reaper": "Toutes les Âmes",
   "roguecraft.class_ability.glass_cannon_error": "Vous devez avoir plus de 3 coeurs pour utiliser cette compétence",
-  
   "roguecraft.advancement.name.all_dummy": "100 Pour le Prix 0",
   "roguecraft.advancement.name.avatar": "Avatar",
   "roguecraft.advancement.name.completion": "100%",
@@ -257,7 +240,6 @@
   "roguecraft.advancement.description.destroy_hub": "Essayez de détruire le Hub (points bonus si vous signalez un bug si vous arrivez vraiment à le détruire)",
   "roguecraft.advancement.description.infinite_garden_void": "Mourrez dans le Jardin Infini",
   "roguecraft.advancement.description.first_ability": "Achetez votre première compétence",
-  
   "roguecraft.obelisk.corpus.inactive": "...",
   "roguecraft.obelisk.sol.inactive": "Tu n'es pas digne de ma présence, manant. Va-t'en!",
   "roguecraft.obelisk.custos.main": "Je suis le protecteur de la Forteresse du Nether. Affronte-moi au berceau des Blazes.",
@@ -268,7 +250,6 @@
   "roguecraft.obelisk.anima.inactive": "Né pour protéger, mon pouvoir ne cesse de croître. Affronte-moi à mon apogée, si tu souhaites te mesurer à mon maître.",
   "roguecraft.obelisk.fatum.inactive": "Il n'est pas encore temps, Âme Éternelle. Soyez patient.",
   "roguecraft.obelisk.divus.inactive": "* La présence de cette obélisque vous remplit d'effroi. *",
-
   "roguecraft.loadout.sword": "Épée",
   "roguecraft.loadout.pickaxe": "Pioche",
   "roguecraft.loadout.shovel": "Pelle",
@@ -278,7 +259,6 @@
   "roguecraft.loadout.golden_apple": "Pommes Dorées",
   "roguecraft.loadout.pearl": "Perles de l'Ender",
   "roguecraft.loadout.lore": "Utilisé pour changer votre configuration",
-
   "please_install_resource_pack_and_relog": "Introduction",
   "roguecraft.tutorial.title.vanilla_changes": "Changements Vanilla",
   "roguecraft.tutorial.title.difficulty_level": "Niveau de Difficulté",
@@ -288,22 +268,19 @@
   "roguecraft.tutorial.title.shops": "Boutique",
   "roguecraft.tutorial.title.abilities_and_classes": "Compétences et Classes",
   "roguecraft.tutorial.title.cosmic_dome": "Le Dôme Cosmique",
-
   "roguecraft.tutorial.introduction.page_0": "----§oIntroduction§r----\nBienvenue sur §lRoguecraft§r, un datapack visant à transformer Minecraft en jeu roguelite. Si vous savez déjà ce qu'est un roguelite, n'hésitez pas à aller directement à la page 4. Un roguelite est une variante du genre roguelike.",
   "roguecraft.tutorial.introduction.page_1": "Essentiellement, le monde est généré aléatoirement, et le jeu se divise en multiples parties. Dans les roguelikes, vous perdez toute votre progression à la mort, mais dans les roguelites, vous conservez une partie de votre progression, qui, dans ce cas, vous permet de",
   "roguecraft.tutorial.introduction.page_2": "débloquer des améliorations permanentes pour vous aider dans votre quête pour tuer l'Ender Dragon et terminer le datapack. Ces améliorations seront à un certain point suffisantes pour vous permettre de terminer le jeu du début à la fin en une seule partie.",
   "roguecraft.tutorial.introduction.page_3": "------§oTutoriel§r------§r\nVous êtes actuellement dans le Tutoriel, une section du Hub du datapack, le Dôme Cosmique. Les autres pupitres vous donneront des informations à propos des ajouts et changements du datapack.",
   "roguecraft.tutorial.introduction.page_4": "Les informations fournies seront très utiles, mais ne sont pas obligatoires pour jouer. La seule exception concerne les recettes de fabrication situées dans les cadres au dessus du premier pupitre sur la gauche. Vous pouvez retourner dans le tutoriel à tout moment,",
   "roguecraft.tutorial.introduction.page_5": "donc si vous souhaitez commencer à jouer à l'aveugle, prenez une capture d'écran des recettes sur la gauche et avancez dans la salle au bout de la pièce. Si vous préférez suivre le tutoriel, lisez attentivement les pupitres de cette pièce.",
-  "roguecraft.tutorial.introduction.page_6": "Quel que soit votre choix, je vous souhaite bonne chance sur Roguecraft. Amusez-vous bien!",
-  
+  "roguecraft.tutorial.introduction.page_6": "",
   "roguecraft.tutorial.skillpoints.page_0": "--§oPoints de Talent§r--\nLes Points de Talent sont la ressource la plus importante du datapack. Ils servent à acheter des améliorations, compétences et classes dans le Hub. Ils peuvent être obtenus de deux façons. La première est de simplement les fabriquer",
   "roguecraft.tutorial.skillpoints.page_1": "grâce aux recettes affichées derrière ce pupitre. La première recette vous donnera 1 Point de Talent, la deuxième vous en donnera 2, et la dernière, 4. Vous pouvez trouver plus d'informations sur l'item au centre à la page 4. La seconde méthode d'obtention ",
   "roguecraft.tutorial.skillpoints.page_2": "est de débloquer des succès, qui vous donneront un Point de Talent par succès. Gardez à l'esprit que les Points de Talent non dépensés seront supprimés lorsque vous lancez une nouvelle partie, donc faites attention à en dépenser le maximum tant que vous êtes encore dans le Hub!",
   "roguecraft.tutorial.skillpoints.page_3": "--§oGemmes de Talent§r--\nLes Gemmes de Talent sont l'ingrédient principal pour fabriquer des Points de Talent (il s'agit de l'item central sur les recettes derrière ce pupitre). Ces Gemmes sont obtenables uniquement en gagnant un niveau d'expérience,",
   "roguecraft.tutorial.skillpoints.page_4": "ce qui les rendent très précieuses. Également, plus vous montez de niveau, plus il est difficiled'en obtenir. Si vous réussissez à baisser votre niveau d'expérience, vous n'obtiendrez pas de Gemme de Talent supplémentaire en atteignant un niveau que vous avez",
-  "roguecraft.tutorial.skillpoints.page_5": "déjà atteint précédemment. Par exemple, si vous baissez votre niveau de 21 à 20, vous ne gagnerez pas une deuxième Gemme de Talent lorsque vous repasserez niveau 21.",
-  
+  "roguecraft.tutorial.skillpoints.page_5": "",
   "roguecraft.tutorial.shops.page_0": "§r------§oBoutique§r------La boutique est un élément vital pour la progression dans le datapack. Elle est située dans le Dôme Cosmique et vous permet de dépenser vos Points de Talent pour débloquer des améliorations, classes et compétences.\nÀ la droite de ce pupitre est placée une",
   "roguecraft.tutorial.shops.page_1": "Amélioration Factice pour vous permettre de tester son fonctionnement.\nLa boutique dispose de 4 types d'achats. Le premier est nommé \"achat d'amélioration\". Ceux-ci fonctionnent comme l'Amélioration Factice. Les prix de ces achats restent les mêmes quel que soit leur niveau.",
   "roguecraft.tutorial.shops.page_2": "Le deuxième type d'achat est appelé \"achat progressif\". Les prix des ces achats ne sont pas affichés au dessus d'eux, mais juste au dessus de votre barre d'action. Cette différence s'explique par l'augmentation des prix en fonction du niveau d'amélioration.",
@@ -313,8 +290,7 @@
   "roguecraft.tutorial.shops.page_6": "--§oÉchelons d'Achat§r--\nVous avez peut-être remarqué un cadenas au-dessus de l'Amélioration Factice. Ces cadenas affichent l'échelon de l'achat. Celui-ci indique le niveau maximum de cet achat, qui augmente avec l'échelon. Vous pouvez augmenter cet échelon en vainquant des boss.",
   "roguecraft.tutorial.shops.page_7": "Un cadenas doré indique que l'achat est bloqué, un cadenas argenté vous permet d'acheter certaines améliorations, un cadenas de bronze vous permet d'acheter la majorité des améliorations, et aucun cadenas signifie que l'achat est entièrement débloqué.",
   "roguecraft.tutorial.shops.page_8": "----§oRégression§r----\nSi vous souhaitez baisser le niveau d'une amélioration, prenez en main l'item \"Régresseur d'Amélioration\" et cliquez droit sur l'amélioration à régresser §len vous accroupissant§r.",
-  "roguecraft.tutorial.shops.page_9": "IMPORTANT: Régresser une amélioration ne vous rendra pas les Points de Talent correspondants, donc faites attention à ce que vous régressez!",
-  
+  "roguecraft.tutorial.shops.page_9": "",
   "roguecraft.tutorial.abilities_and_classes.page_0": "----§oCompétences§r----\nLes compétences sont des sortilèges actifs puissants. Elles peuvent être achetées dans le Hub, après quoi vous devez prendre en main l'un de vos Items de Compétence et cliquer une compétence pour lier cet Item à la Compétence cliquée.",
   "roguecraft.tutorial.abilities_and_classes.page_1": "Vous disposez de 3 Items de Compétence par défaut, mais vous pouvez en obtenir une quatrième grâce à la classe Mage. Ces Items de Compétence apparaîtront dans votre inventaire pendant une partie si ceux-ci sont liés à des compétences, après quoi vous pourrez les utiliser",
   "roguecraft.tutorial.abilities_and_classes.page_2": "en faisant un clic droit ou gauche en tenant l'Item en main. Les compétences n'ont pas de délai d'utilisation, mais utilisent votre mana.",
@@ -322,26 +298,22 @@
   "roguecraft.tutorial.abilities_and_classes.page_4": "----§oCharge d'Âme§r----\nLa classe Faucheur utilise des Âmes à la place du Mana. Les Âmes peuvent être obtenues en tuant la plupart des créatures du jeu.\nAvec cette classe, toutes les compétences ne coûtent qu'une seule Charge d'Âme par utilisation.",
   "roguecraft.tutorial.abilities_and_classes.page_5": "------§oClasses§r------\nLes classes sont des puissants archétypes débloquables avec des Points de Talent. Celles-ci vous donnent des bonus passifs, ainsi qu'une nouvelle Compétence de Classe. Vous pouvez sélectionner une classe achetée dans la boutique en cliquant dessus.",
   "roguecraft.tutorial.abilities_and_classes.page_6": "Si vous la cliquez à nouveau, vous la désélectionnerez. Vous ne pouvez sélectionner une seule classe à la fois, donc choisissez-en une qui correspond à votre style de jeu.",
-  "roguecraft.tutorial.abilities_and_classes.page_7": "§oCompétence de Classe§r\nLes Compétences de Classe sont plus puissantes et sont spécifiques à chaque classe. La seule exception est la classe Mage, qui vous donne accès à un quatrième Item de Compétence, utilisable de la même manière que les trois autres Items par défaut.",
-  
+  "roguecraft.tutorial.abilities_and_classes.page_7": "",
   "roguecraft.tutorial.vanilla_changes.page_0": "-§oChangements Vanilla§r-\nLes améliorations que vous obtiendrez en jouant à ce datapack sont très puissantes, ainsi, le jeu a été rendu significativement plus difficile en guise d'équilibrage.",
   "roguecraft.tutorial.vanilla_changes.page_1": "Le premier changement est que votre vie de départ est réduite à 5 coeurs à la place des 10 habituels. Cela rendra la survie beaucoup plus difficile au début du jeu, par conséquent investir dans des améliorations de vie est une bonne idée.",
   "roguecraft.tutorial.vanilla_changes.page_2": "Le second changement est bien plus impactant. Puisque vous pouvez débloquer des améliorations d'armure, outils et armes dans le Hub, toutes ces recettes sont désactivées. Vous n'aurez pas la possibilité de fabriquer d'outils (pioches, pelles,",
   "roguecraft.tutorial.vanilla_changes.page_3": "haches et houes), d'armes (épées et arcs) ni d'armures. Certains items seront tout de même fabriquables, comme des briquets, seaux, boucliers, arbalètes, carapace de tortue, cisailles, et cannes à pêche. Puisque le jeu serait impossible",
   "roguecraft.tutorial.vanilla_changes.page_4": "à battre sans outils, vous débutez avec une pioche en pierre. Ceci, à l'aide de certaines techniques de speedrun, comme par exemple construire un portail du Nether à l'aide d'un seau, devrait en théorie être suffisant pour battre le jeu dès la première partie.",
-  "roguecraft.tutorial.vanilla_changes.page_5": "À noter que tous les items obtenus avec les améliorations sont incassables.\nDernièrement, malgré la désactivation des recettes de ces items, vous pouvez tout de même en trouver dans des coffres ou en commerçant avec des villageois.",
-  
+  "roguecraft.tutorial.vanilla_changes.page_5": "",
   "roguecraft.tutorial.difficulty_level.page_0": "-§oNiveau de Difficulté§r-\nLe Niveau de Difficulté est l'un des ajouts de difficulté majeurs du datapack. Ce niveau est affiché en haut de l'écran et augmente lentement, jusqu'à ce qu'il atteigne le niveau suivant.\nAu niveau 1, il n'y a aucun changement par rapport à Minecraft vanilla.",
   "roguecraft.tutorial.difficulty_level.page_1": "Cependant, une fois le niveau à 2, tous les mobs recevront des bonus. Ces bonus vont d'armure supplémentaire aux zombies et squelettes, à l'augmentation du rayon d'explosion des creepers, jusqu'à donner à tous les monstres qui peuvent l'utiliser un Totem d'Immortalité.",
   "roguecraft.tutorial.difficulty_level.page_2": "Une fois le niveau de difficulté à 10, les monstres ne recevront plus de bonus, mais votre vie descendra de 2 coeurs à chaque niveau de difficulté au dessus de 10. Cela signifie qu'au niveau 11, vous perdrez 2 coeurs, puis 2 de plus au niveau 12, et ainsi de suite.",
   "roguecraft.tutorial.difficulty_level.page_3": "Cette réduction de vie s'arrête lorsque tous les joueurs n'ont plus qu'un seul coeur. Pour cette raison, il est conseillé de progresser rapidement si vous souhaitez terminer le jeu. It est toujours possible de terminer le jeu même en étant inexpérimenté,",
-  "roguecraft.tutorial.difficulty_level.page_4": "mais n'hésitez pas à apprendre quelques stratégies de speedrun pour avoir un avantage.",
-  
+  "roguecraft.tutorial.difficulty_level.page_4": "",
   "roguecraft.tutorial.progression.page_0": "----§oProgression§r----\nLa progression a subi une révision massive dans ce datapack. Globalement, si vous souhaitez des indications, essayez de débloquer l'amélioration \"Boussole Magnétisée\". Ce compas vous indiquera la direction de votre",
   "roguecraft.tutorial.progression.page_1": "prochain objectif lorsque vous le tenez. Il ne passera pas à l'objectif suivant si vous ne le tenez pas dans votre main principale!\nGardez à l'esprit qu'une fois le Stronghold généré, les Yeux de l'Ender ne vous mèneront pas à celui-ci.",
   "roguecraft.tutorial.progression.page_2": "Les coordonnées seront simplement affichées dans le tchat une fois le Stronghold généré. Ces coordonnées peuvent être affichées de nouveau en exécutant la commande \"/trigger stronghold_location\".",
-  "roguecraft.tutorial.progression.page_3": "-----§oObelisques§r-----\nIl existe une salle étrange dans la section sud du Dôme Cosmique. Essayez de cliquer sur l'une des obélisques. Peut-être que les échos de leurs âmes fuyantes vous guideront vers l'End.",
-
+  "roguecraft.tutorial.progression.page_3": "",
   "roguecraft.tutorial.cosmic_dome.page_0": "--Le Dôme Cosmique--\nVous êtes actuellement dans le Dôme Cosmique, la zone Hub de ce datapack. Ce Dôme contient certaines salles importantes pour votre progression, et vous donne accès au Jardin Infini.",
   "roguecraft.tutorial.cosmic_dome.page_1": "-----Inventaire-----\nÀ l'intérieur du Dôme Cosmique, vous n'aurez que quelques items dans votre inventaire. Les premiers sont appelés \"Items de Compétence\" et peuvent être liés à des compétences en cliquant droit sur la compétence voulue avec l'Item que vous souhaitez lier.",
   "roguecraft.tutorial.cosmic_dome.page_2": "Ensuite vient l'item \"Régresseur d'Amélioration\". En le prenant en main, vous pouvez vous accroupir et cliquer sur un achat pour retirer un niveau de cet achat. Notez que les Points de Talent utilisés pour cet achat ne vous seront pas retournés, cet item vous permet",
@@ -352,26 +324,20 @@
   "roguecraft.tutorial.cosmic_dome.page_7": "approchez-vous pour récupérer vos items. Au fur et à mesure de votre progression, vous rencontrerez certains animaux. Plus votre maximum de Points de Talent obtenus dans une seule partie est élevé (avec un maximum de 500), plus vous rencontrerez d'animaux.",
   "roguecraft.tutorial.cosmic_dome.page_8": "Peut-être que vous trouverez une âme spéciale à ce moment.\n\nSi vous êtes perdu dans le Jardin Infini ou souhaitez retourner rapidement au Dôme Cosmique, exécutez la commande \"/trigger hub_tp\".",
   "roguecraft.tutorial.cosmic_dome.page_9": "",
-
   "biome.roguecraft.infinite_garden": "Jardin Infini",
-
   "roguecraft.speedrun.timer": "Chronomètre Speedrun",
   "roguecraft.speedrun.single_run": "Partie Unique",
   "roguecraft.speedrun.new_world": "Création du Monde",
   "roguecraft.speedrun.wildfire_message": "[%s] Vous avez vaincu l'Incendiaire en %s",
   "roguecraft.speedrun.ender_dragon_message": "[%s] Vous avez vaincu l'Ender Dragon en %s",
-  
   "roguecraft.chat_messages.enable_single_run_timer": "Vous avez activé le chronomètre speedrun Partie Unique",
   "roguecraft.chat_messages.disable_single_run_timer": "Vous avez désactivé le chronomètre speedrun Partie Unique",
   "roguecraft.chat_messages.enable_new_world_timer": "Vous avez activé le chronomètre speedrun Création du Monde",
   "roguecraft.chat_messages.disable_new_world_timer": "Vous avez désactivé le chronomètre speedrun Création du Monde",
-  
   "roguecraft.chat_messages.golden_scythe_no_requirements": "Vous n'avez pas encore atteint les prérequis",
   "roguecraft.chat_messages.golden_scythe_equip": "Vous saisissez le pouvoir infini de la Faux en Or",
   "roguecraft.chat_messages.golden_scythe_unequip": "Vous vous retirez de la présence écrasante de la Faux en Or",
-
+  "death.attack.generic.item": "%s discovered that their actions have consequences",
   "if_you_see_this_message_then_you_need_to_download_the_resource_pack_from_modrinth": "",
-  "if_you_already_installed_the_resource_pack_try_to_relog": "",
-
-  "death.attack.generic.item": "%s discovered that their actions have consequences"
+  "if_you_already_installed_the_resource_pack_try_to_relog": ""
 }

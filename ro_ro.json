@@ -1,11 +1,9 @@
 {
-  "language.roguecraft.translation_authors": "Andrul",
-
+  "language.roguecraft.translation_authors": "",
   "enchantment.level.0": "0",
   "block.minecraft.structure_void": "Punct de îndemânare",
   "block.minecraft.structure_block": "Nestemată de îndemânare",
-  "container.enderchest": "\uEff2\uF80A    Echipament",
-
+  "container.enderchest": "    Echipament",
   "roguecraft.generic.loadout": "Echipament",
   "roguecraft.generic.cost": "Cost",
   "roguecraft.generic.current_sp": "Puncte de îndemânare curente",
@@ -16,21 +14,18 @@
   "roguecraft.generic.strength": "Putere",
   "roguecraft.generic.ability": "Abilitate",
   "roguecraft.generic.soul_charge": "Încărcătură de suflete",
-
   "roguecraft.item.ability": "%s %s",
   "roguecraft.item.start_run": "Începe Cursa",
   "roguecraft.item.unready": "Nepregătit",
   "roguecraft.item.join_run": "Intră în cursă",
   "roguecraft.item.remove_upgrade": "Scoate abilități",
   "roguecraft.item.scythe": "Coasă %s",
-  
   "roguecraft.prefix.wooden": "de lemn",
   "roguecraft.prefix.stone": "de piatră",
   "roguecraft.prefix.golden": "de aur",
   "roguecraft.prefix.iron": "de fier",
   "roguecraft.prefix.diamond": "de diamant",
   "roguecraft.prefix.netherite": "de netherite",
-  
   "roguecraft.bossbar.difficulty_level": "Nivel de Dificultate: %s",
   "roguecraft.bossbar.liquid_walker": "Alergător pe Lichide",
   "roguecraft.bossbar.dirt_walker": "Alergător pe pământ",
@@ -43,24 +38,20 @@
   "roguecraft.bossbar.welcome_1": "Bun Venit În Roguecraft",
   "roguecraft.bossbar.welcome_2": "Un Data Pack Roguelite în Minecraft",
   "roguecraft.bossbar.hub": "Centrul",
-
   "roguecraft.compass.fortress": "Fortăreață Nether",
   "roguecraft.compass.stronghold": "Stronghold",
   "roguecraft.compass.nether": "Îndreptați-vă către Nether",
   "roguecraft.compass.entry": "Intrarea către Nether",
-
   "roguecraft.title.victory": "Victorie!",
   "roguecraft.title.defeat": "Înfrânt",
   "roguecraft.title.run_end_dragon": "Dragon Înfrânt",
   "roguecraft.title.enter_end": "Dragonul Ender",
   "roguecraft.title.infinite_garden": "Grădina Infinită",
   "roguecraft.title.cosmic_dome": "Domul Cosmic",
-
   "roguecraft.chat_messages.sp": "Ai primit %s✦! Acum ai %s✦ în total.",
   "roguecraft.chat_messages.sp_advancement": "Ai primit %s✦ pentru completarea avansării! Acum ai %s✦ în total.",
   "roguecraft.chat_messages.sp_ender_dragon": "Ai primit %s✦ Pentru înfrângerea Dragonului Ender! Acum ai %s✦ în total.",
   "roguecraft.chat_messages.sp_wildfire": "Ai primit %s✦ pentru înfrângerea Wildfire-ului! Acum ai %s✦ în total.",
-  
   "roguecraft.chat_messages.stronghold_generate": "Un Stronghold a fost generat la %s %s",
   "roguecraft.chat_messages.stronghold_location": "Stronghold-ul este localizat la %s %s",
   "roguecraft.chat_messages.stronghold_location_error": "Stronghold-ul nu a fost generat încă",
@@ -85,7 +76,6 @@
   "roguecraft.chat_messages.ability_no_mana": "Nu ai destulă mană pentru această abilitate",
   "roguecraft.chat_messages.ability_no_soul_charge": "Nu ai destulă încărcătură de suflete pentru această abilitate",
   "roguecraft.chat_messages.ability_no_entity_nearby": "Nu există ținte apropiate pentru această abilitate",
-  
   "roguecraft.chat_messages.upgrade": "upgradează",
   "roguecraft.chat_messages.upgrade_buy": "Ați upgradat %s",
   "roguecraft.chat_messages.upgrade_sell": "Ați degradat %s",
@@ -108,11 +98,8 @@
   "roguecraft.chat_messages.class_select": "Ai selectat %s pentru %s",
   "roguecraft.chat_messages.class_buy": "Ai deblocat %s %s",
   "roguecraft.chat_messages.class_sell": "Ai retras %s %s",
-  
   "roguecraft.chat_messages.unlock_upgrades": "Ai deblocat upgrade-uri noi prin înfrângerea unui boss!",
-  
   "roguecraft.chat_messages.chester": "Spiritul a zâmbit asupra ta...",
-  
   "roguecraft.hub.name.upgrades": "Upgrade-uri",
   "roguecraft.hub.name.abilities": "Abilități",
   "roguecraft.hub.name.classes": "Clase",
@@ -120,7 +107,6 @@
   "roguecraft.hub.name.seal": "Sigiliul",
   "roguecraft.hub.name.tutorial": "Tutorial",
   "roguecraft.hub.name.cosmic_dome": "Domul Cosmic",
-
   "roguecraft.upgrade.name.defense": "Defensivă",
   "roguecraft.upgrade.name.max_health": "Viață Maximă",
   "roguecraft.upgrade.name.speed": "Viteză",
@@ -164,7 +150,6 @@
   "roguecraft.upgrade.name.mana_regen": "Regenerarea Manei",
   "roguecraft.upgrade.name.max_mana": "Mană Maximă",
   "roguecraft.upgrade.name.dummy_upgrade": "Upgrade Figurant",
-  
   "roguecraft.ability.name.ability_explosion": "Explozie",
   "roguecraft.ability.name.ability_mining": "Minat În Zonă",
   "roguecraft.ability.name.ability_arrow_wave": "Undă De Săgeți",
@@ -185,7 +170,6 @@
   "roguecraft.ability.description.ability_spikes": "Te lasă să eviți orice lovitură dacă este folosită la timpul corect",
   "roguecraft.ability.description.ability_levitate": "Îți dă un efect de levitare",
   "roguecraft.ability.description.ability_dirt_walker": "Plasează blocuri de pământ sub tine, permitându-te să mergi pe aer",
-  
   "roguecraft.class.name.tank": "Tanc",
   "roguecraft.class.name.mage": "Mag",
   "roguecraft.class.name.healer": "Vindecător",
@@ -204,7 +188,6 @@
   "roguecraft.class_ability.reaper": "Spectru Răzbunător",
   "roguecraft.class_cost.reaper": "Toate Sufletele",
   "roguecraft.class_ability.glass_cannon_error": "Ai nevoie de mai mult de 3 inimi pentru a folosi această abilitate",
-  
   "roguecraft.advancement.name.all_dummy": "100 la preț de 0",
   "roguecraft.advancement.name.avatar": "Avatar",
   "roguecraft.advancement.name.completion": "100%",
@@ -257,7 +240,6 @@
   "roguecraft.advancement.description.destroy_hub": "Încearcă să distrugi Centrul (puncte extra pentru trimiterea unui raport de eroare dacă chiar reușești să îl distrugi)",
   "roguecraft.advancement.description.infinite_garden_void": "Mori în Grădina Infinită",
   "roguecraft.advancement.description.first_ability": "Achiziționează-ți prima abilitate",
-  
   "roguecraft.obelisk.corpus.inactive": "...",
   "roguecraft.obelisk.sol.inactive": "Ești nevrednic de prezența mea, muritorule. Acum pleacă!",
   "roguecraft.obelisk.custos.main": "Sunt protectorul fortăreței nether. Înfățișează-mă la locul de naștere al blaze-urilor.",
@@ -268,7 +250,6 @@
   "roguecraft.obelisk.anima.inactive": "Născut să protejez, puterea mea crește întotdeauna. Înfățisează-mă odată ce mi-am atins apogeul, dacă dorești să-mi înfățișezi maestrul.",
   "roguecraft.obelisk.fatum.inactive": "Timpul nu este încă perfect, suflet etern. Trebuie să îți cer răbdarea.",
   "roguecraft.obelisk.divus.inactive": "* Prezența acestui obelisc te umple cu teamă.",
-
   "roguecraft.loadout.sword": "Sabie",
   "roguecraft.loadout.pickaxe": "Târnăcop",
   "roguecraft.loadout.shovel": "Lopată",
@@ -278,7 +259,6 @@
   "roguecraft.loadout.golden_apple": "Mere De Aur",
   "roguecraft.loadout.pearl": "Perle",
   "roguecraft.loadout.lore": "Folosit pentru schimbarea echipamentului",
-
   "please_install_resource_pack_and_relog": "Introducere",
   "roguecraft.tutorial.title.vanilla_changes": "Schimbări La Vanilla",
   "roguecraft.tutorial.title.difficulty_level": "Nivel De Dificultate",
@@ -288,7 +268,6 @@
   "roguecraft.tutorial.title.shops": "Magazine",
   "roguecraft.tutorial.title.abilities_and_classes": "Abilități și Clase",
   "roguecraft.tutorial.title.cosmic_dome": "Domul Cosmic",
-
   "roguecraft.tutorial.introduction.page_0": "----§oIntroducere§r----\nBun venit la §lRoguecraft§r, un data pack care țintește să schimbe Minecraft într-un joc roguelite. Dacă deja știi ce este un roguelite, Ești liber să treci la pagina 4. Un roguelite este o variantă a genului roguelike. Explicația simplă este că lumea este generată",
   "roguecraft.tutorial.introduction.page_1": "la întâmplare, și ciclul jocului este separat în mai multe curse. În roguelike-uri, pierzi tot progresul la moarte, dar în roguelite-uri, primești o parte din progres, ceea ce în cazul acesta înseamnă că poți să deblochezi upgrade-uri permanente ce te vor ajuta în calea ta",
   "roguecraft.tutorial.introduction.page_2": "de a omorî Dragonul Ender și a termina data pack-ul. Aceste upgrade-uri o să ajungă să fie suficiente pentru a termina tot jocul într-o singură cursă.",
@@ -296,14 +275,12 @@
   "roguecraft.tutorial.introduction.page_4": "general nu necesare pentru a juca. Singura excepție sunt rețetele de craftare locate în ramele de iteme deasupra primului pupitru pe stânga. Poți să te reîntorci la tutorial oricând, deci dacă preferi a intra orb, doar fă o poză rețetelor de pe stânga și pășește prin",
   "roguecraft.tutorial.introduction.page_5": "portalul de la sfârșitul camerei. Dacă preferi să urmărești tutorialul, citește celelalte pupitre din această cameră.\nOrice ajungi să faci, Îți doresc mult noroc cu Roguecraft. Distracție plăcută!",
   "roguecraft.tutorial.introduction.page_6": "",
-  
   "roguecraft.tutorial.skillpoints.page_0": "§oPuncte De Îndemânare§r\nPunctele de îndemânare sunt cea mai importantă resursă în acest data pack. Pot fi folosite pentru achiziționarea upgrade-urilor, abilităților și claselor în centru. Pot fi obținute în 2 căi. Prima este pur și simplu a le crafta folosind",
   "roguecraft.tutorial.skillpoints.page_1": "rețetele din spatele acestui pupitru. Prima rețetă îți va oferi un punct de îndemânare, a doua îți va oferi două puncte de îndemânare iar ultima patru puncte. Poți găsi mai multe informații despre acest item în mijlocul paginii 4.\nA doua metodă de a obține puncte de îndemânare este pur",
   "roguecraft.tutorial.skillpoints.page_2": "și simplu a obține avansuri, care îți vor oferi un punct de îndemânare fiecare. Ține minte că punctele de îndemânare necheltuite vor dispărea odată ce începi o nouă cursă, deci asigură-te să cheltui cât mai multe posibil cât timp ești în zona centrală!",
   "roguecraft.tutorial.skillpoints.page_3": "§oNestemate De Îndemânare§r\nPerlele de îndemânare sunt ingredientul principal pentru craftare punctelor de îndemânare (sunt itemele centrale de pe rețetele din spatele pupitrului). Acestea sunt obținubile doar prin primirea unui nou nivel de xp, ceea ce le face de mare valoare.",
   "roguecraft.tutorial.skillpoints.page_4": "Mai mult de atât, cu cât ai mai mult xp, cu atât mai greu sunt de obținut. Dacă reușești să îți scazi nivelul de xp, NU o să mai primești încă o nestemată de îndemânare prin atingerea unui nivel pe care l-ai atins deja. Spre exemplu, Dacă îți scazi nivelul de la 21 la 20, nu o să",
-  "roguecraft.tutorial.skillpoints.page_5": "mai primești o a doua nestemată de îndemânare pentru reatingerea nivelului 21.",
-  
+  "roguecraft.tutorial.skillpoints.page_5": "",
   "roguecraft.tutorial.shops.page_0": "§r-----§oMagazine§r-----\nMagazinele sunt o parte privată a progresului în acest data pack. Se află în Domul Cosmic și îți permit să cheltuiești punctele de îndemânare pe upgrade-uri, abilități și clase.\nÎn dreapta pupitrului acesta este un magazin figurant care",
   "roguecraft.tutorial.shops.page_1": "vinde un upgrade nefolositor pentru 0 puncte de îndemânare deci poți înțtelege cum funcționează magazinele.\nSunt 4 tipuri de magazine. Primul este pur și simplu numit \"magazinul de upgrade-uri\". Acestea funcționează exact la fel ca magazinul figurant. Vând",
   "roguecraft.tutorial.shops.page_2": "upgrade-uri la un preț constant până atingi nivelul maxim. Următorul tip de magazin este numit un \"magazin progresiv\". Acestea nu arată prețul în display-ul text deasupra lor, dar în loc doar în titlul de deasupra inventarului. Asta este pentru că prețul crește odată ce",
@@ -313,8 +290,7 @@
   "roguecraft.tutorial.shops.page_6": "--§oNivele de Magazin§r--\nSe poate să fi observat un lacăt deasupra magazinului figurant. Lacătele arată nivelul magazinului. Un nivel de magazin indică cel mai înalt nivel al acelui upgrade, care este crescut prin creșterea nivelului magazinului.",
   "roguecraft.tutorial.shops.page_7": "Acest lucru se face prin învingerea inamicilor. Cu un lacăt de aur, magazinul este închis în întregime, prevenindu-te din a cumpăra orice upgrade-uri. Lacătele de argint îți permit să cumperi niște upgrade-uri, lacătele de bronz iți permit să cumperi majoritatea lor, iar magazinele",
   "roguecraft.tutorial.shops.page_8": "fără lacăte deasupra lor sunt deblocate în întregime.",
-  "roguecraft.tutorial.shops.page_9": "§oScoaterea Upgrade-urilor§r\nDacă dorești să scazi nivelul unui upgrade, doar ține itemul\"Scoate Abilități\" și apasă click dreapta pe magazin §lîn timp ce furiși§r.\n\nIMPORTANT: Acest lucru nu va returna puncte de abilitate, deci ai grijă!§",
-  
+  "roguecraft.tutorial.shops.page_9": "",
   "roguecraft.tutorial.abilities_and_classes.page_0": "------§oAbilități§r------\nAbilitățile sunt vrăji puternice și active. Pot fi aduse în centru, după care trebuie să ții unul dintre itemele abilitate și să apeși pe magazin pentru a lega itemul abilitate cu abilitatea prezentată în magazin. Ai 3 iteme abilități din prima, dar dacă alegi clasa mag,",
   "roguecraft.tutorial.abilities_and_classes.page_1": "o să primești un item abilitate adițional. Acestea vor apărea în inventarul tău în timpul unei curse dacă legi o abilitate la ele, după care poți apăsa click dreapta/stânga ținând itemul pentru a executa abilitatea. Abilitățile nu au un timp de reîncărcare, dar necesită mană pentru a fi folosite.",
   "roguecraft.tutorial.abilities_and_classes.page_2": "-------§oMană§r--------\nOdată ce ți-ai legat prima abilitate, o bară de mană va apărea în partea de sus a ecranului. Aceasta îți va spune cantitatea curentă de mană, care este resursa necesară pentru folosirea vrăjilor. Mana ta se va regenera pasiv până își atinge maxima.",
@@ -322,26 +298,22 @@
   "roguecraft.tutorial.abilities_and_classes.page_4": "-------§oClase§r-------\nClasele sunt arhetipuri puternice care pot fi deblocate cu puncte de abilitate. Îți oferă bonusuri pasive, și o abilitate nouă de clasă.\nPoți selecta o clasă prin a o cumpăra și a apăsa pe ea după. Dacă după apeși pe ele din nou, vei deselecta acea clasă.",
   "roguecraft.tutorial.abilities_and_classes.page_5": "Poți selecta doar o singură clasă la un moment dat, deci alege ceva care merge pentru stilul tău de joc.",
   "roguecraft.tutorial.abilities_and_classes.page_6": "--§oAbilități de Clasă§r--\nAbilitățile de clasă sunt abilități mult mai puternice care sunt legate de fiecare clasă. Cele două cazuri speciale sunt abilitățile magului și cea a tunului de sticlă. Abilitatea magului este pur și simplu un al patrulea item abilitate, care funcționează la",
-  "roguecraft.tutorial.abilities_and_classes.page_7": "fel ca celelalte trei pe care le ai în inventar în mod normal.",
-  
+  "roguecraft.tutorial.abilities_and_classes.page_7": "",
   "roguecraft.tutorial.vanilla_changes.page_0": "-§oSchimbări la Vanilla§r-\nUpgrade-urile pe care le vei obține în timp ce joci acest data pack sunt foarte puternice, deci pentru a balansa acest fapt, jocul este considerabil de mult mai greu.\nPrima schimbare este că viața la început este redusă la 5 inimi",
   "roguecraft.tutorial.vanilla_changes.page_1": "în loc de normalul 10. Acest fapt va face supraviețuirea mult mai dificil la început, deci poate fi o idee bună la început.\nA doua schimbare are impact mult mai mare. Fiindcă poți debloca upgrade-uri pentru armură, unelte și armă în centru, toate rețetele lor sunt dezactivate. Nu o să",
   "roguecraft.tutorial.vanilla_changes.page_2": "poți crafta unelte (târnăcopuri, lopeți, topoare și sape), arme (săbii și arcuri) și armuri. Niște iteme importante pe care încă le poți crafta includ cremene și amnar, găleți, scuturi, arbaletă, căști țestoasă, foarfece și undițe. Fiindcă jocul ar fi imposibil de terminat fără arme,",
   "roguecraft.tutorial.vanilla_changes.page_3": "începi cu un târnăcop de piatră. Acesta, alături de niște tehnici de speedrunning, precum construirea unui portal cu o găleată, este în teorie suficient pentru a termina jocul. De asemenea, toate uneltele sunt obținute prin upgrade-uri și sunt imposibile de spart.",
   "roguecraft.tutorial.vanilla_changes.page_4": "În ultimul rând, deși rețetele sunt dezactivate, unele dintre aceste iteme încă vor apărea în cufere și negoțuri cu săteni. Deși aceasta este o strategie foarte inconsistentă, poate fi folosită pentru stricarea secvenței în unele locuri.",
   "roguecraft.tutorial.vanilla_changes.page_5": "",
-  
   "roguecraft.tutorial.difficulty_level.page_0": "-§oNivele de Dificultate§r-\nNivelul de dificultate este unul dintre cele mai semnificative adiții în acest data pack. O să apară în partea de sus a ecranului și va urca încet, până va atinge un nou nivel.\nLa nivelul 1 de dificultate, nimic nu se schimbă față de vanilla. Totuși, odată",
   "roguecraft.tutorial.difficulty_level.page_1": "ce dificultatea atinge 2, toți monștrii primesc bonusuri. Acestea variază de la zombii și scheletoni primind armură, la ridicarea zonei de explozie a creeperilor, și până la a da tuturor monștrilor un totem al nemuririi.\nOdată ce dificultatea atinge nivelul 10, monștrii nu o să mai",
   "roguecraft.tutorial.difficulty_level.page_2": "primească bonusuri, dar în loc viața jucătorului va scade cu 2 inimi de fiecare dată când dificultatea crește peste nivelul al 10-lea. Deci pentru nivelul al 11-lea, vei pierde 2 inimi, apoi iar pentru nivelul al 12-lea, iarăși pentru al 13-lea, și așa mai departe. Asta continuă până toți jucătorii",
   "roguecraft.tutorial.difficulty_level.page_3": "ajung la o singură inimă de viață. Din cauza acestei schimbări, ești încurajat să progresezi rapid dacă vrei să termini jocul. Este în continuare foarte posibil să termini jocul drept un jucător lipsit de experiență, dar simte-te liber să înveți niște strategii",
-  "roguecraft.tutorial.difficulty_level.page_4": "din speedrun-uri pentru a obține un avantaj.",
-  
+  "roguecraft.tutorial.difficulty_level.page_4": "",
   "roguecraft.tutorial.progression.page_0": "------§oProgres§r------\nProgresul a primit o refacere masivă în acest data pack. În general, dacă necesiți o mână de ajutor, încearcă să deblochezi upgrade-ul \"Busolă de Recuperare\". Această busolă te va îndruma spre următorul tău obiectiv în timp ce îl ții. Nu își va schimba",
   "roguecraft.tutorial.progression.page_1": "statusul decât în mâna principală. Ține minte că după generarea unui stronghold, ochii de ender NU te vor îndruma spre acesta. Coordonatele acestuia vor apărea în chat odată ce apare. Acestea pot fi revăzute prin comanda \"/trigger stronghold_location\".",
   "roguecraft.tutorial.progression.page_2": "-----§oObeliscuri§r-----\nEste o cameră stranie în secțiunea sudică a Domului Cosmic. Încearcă să apeși pe unul dintre obeliscuri. Poate sufletele acestora curgătoare te vor ghida spre sfârșit.",
   "roguecraft.tutorial.progression.page_3": "",
-
   "roguecraft.tutorial.cosmic_dome.page_0": "----Domul Cosmic----\nEști în interiorul Domului Cosmic, zona centrală a acestui data pack. Aceasta conține niște camere importante pentru progres, și acces la Grădina Infinită.",
   "roguecraft.tutorial.cosmic_dome.page_1": "-----Inventar-----\nÎn timp ce te afli în Domul Cosmic, o să ai câteva iteme în inventar. Primele sunt numite \"Iteme Abilitate\" și pot fi legate la abilități prin a apăsa click dreapta pe magazinele unei abilități deblocate în timp ce ții Itemul Abilitate la care vrei să legi aceea abilitate.",
   "roguecraft.tutorial.cosmic_dome.page_2": "În continuare este itemul \"Scoate\". În timp ce îl ții, poți apăsa un magazin în timp ce te furiși pentru a scoate un nivel de la acel upgrade. De notat că acest lucru nu îți va returna puncte de îndemânare, pur și simplu îți permite să scoți upgrade-uri pe care nu le dorești.",
@@ -352,26 +324,20 @@
   "roguecraft.tutorial.cosmic_dome.page_7": "îți recupera itemele. Pe parcursul progresului, poți întâlni și niște animale. Cu cât crește numărul maxim de puncte de îndemânare câștigate într-ă singură cursă, cu atât mai multe animale vei întâlni, până la 500 de puncte de îndemânare într-o singură cursă. Poate vei găsi un loc special",
   "roguecraft.tutorial.cosmic_dome.page_8": "în sufletul tău odată ce se întâmpă asta. Dacă te-ai pierdut în Grădina Infinită sau dorești să te întorci rapid la Domul Cosmic, scrie \"/trigger hub_tp\" în chat.",
   "roguecraft.tutorial.cosmic_dome.page_9": "",
-
   "biome.roguecraft.infinite_garden": "Grădina Infinită",
-
   "roguecraft.speedrun.timer": "Cronometru",
   "roguecraft.speedrun.single_run": "Singură Cursă",
   "roguecraft.speedrun.new_world": "Lume Nouă",
   "roguecraft.speedrun.wildfire_message": "[%s] L-ai învins pe Wildfire în %s",
   "roguecraft.speedrun.ender_dragon_message": "[%s] L-ai învins pe Dragonul Ender în %s",
-  
   "roguecraft.chat_messages.enable_single_run_timer": "Ai activat cronometrul pentru o singură cursă",
   "roguecraft.chat_messages.disable_single_run_timer": "Ai dezactivat cronometrul pentru o singură cursă",
   "roguecraft.chat_messages.enable_new_world_timer": "Ai activat cronometrul pentru o lume nouă",
   "roguecraft.chat_messages.disable_new_world_timer": "Ai dezactivat cronometrul pentru o lume nouă",
-  
   "roguecraft.chat_messages.golden_scythe_no_requirements": "Nu ai atins cerințele încă",
   "roguecraft.chat_messages.golden_scythe_equip": "Cuprinzi puterea infinită a coasei de aur",
   "roguecraft.chat_messages.golden_scythe_unequip": "Te scoți din prezența copleșitoare a coasei de aur",
-
+  "death.attack.generic.item": "%s discovered that their actions have consequences",
   "if_you_see_this_message_then_you_need_to_download_the_resource_pack_from_modrinth": "",
-  "if_you_already_installed_the_resource_pack_try_to_relog": "",
-
-  "death.attack.generic.item": "%s discovered that their actions have consequences"
+  "if_you_already_installed_the_resource_pack_try_to_relog": ""
 }
