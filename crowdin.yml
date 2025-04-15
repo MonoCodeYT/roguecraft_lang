@@ -1,3 +1,22 @@
 files:
-  - source: en_us.json
-    translation: '%locale%.json'
+  - source: /en_us.json
+    translation: /%locale%.json
+    languages_mapping:
+      locale:
+        da: da_dk
+        de: de_de
+        es-AR: es_ar
+        es-CL: es_cl
+        es-EC: es_ec
+        es-ES: es_es
+        es-MX: es_mx
+        es-UY: es_uy
+        es-VE: es_ve
+        fr: fr_fr
+        nl: nl_nl
+        pt-BR: pt_br
+        ro: ro_ro
+        ru: ru_ru
+        tr: tr_tr
+        zh-CN: zh_cn
+        zh-TW: zh_tw
