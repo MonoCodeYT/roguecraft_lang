@@ -1,9 +1,7 @@
 {
   "language.roguecraft.translation_authors": "If you are translating this data pack, add your name here",
-  
   "enchantment.level.0": "0",
-  "container.enderchest": "\uEFF2\uF80A    修改装配",
-
+  "container.enderchest": "    修改装配",
   "roguecraft.generic.loadout": "修改装配",
   "roguecraft.generic.cost": "费用",
   "roguecraft.generic.current_sp": "当前技能点",
@@ -14,21 +12,18 @@
   "roguecraft.generic.strength": "力量",
   "roguecraft.generic.ability": "技能",
   "roguecraft.generic.soul_charge": "魂能",
-
   "roguecraft.item.ability": "%s%s",
   "roguecraft.item.start_run": "开始游戏",
   "roguecraft.item.unready": "取消准备",
   "roguecraft.item.join_run": "加入游戏",
   "roguecraft.item.remove_upgrade": "降级器",
   "roguecraft.item.scythe": "%s镰刀",
-  
   "roguecraft.prefix.wooden": "木",
   "roguecraft.prefix.stone": "石",
   "roguecraft.prefix.golden": "金",
   "roguecraft.prefix.iron": "铁",
   "roguecraft.prefix.diamond": "钻石",
   "roguecraft.prefix.netherite": "下界合金",
-  
   "roguecraft.bossbar.difficulty_level": "难度等级：%s",
   "roguecraft.bossbar.liquid_walker": "凌波微步",
   "roguecraft.bossbar.dirt_walker": "浮空筑路",
@@ -41,18 +36,15 @@
   "roguecraft.bossbar.welcome_1": "欢迎来到Roguecraft",
   "roguecraft.bossbar.welcome_2": "一个Roguelite风格的我的世界数据包",
   "roguecraft.bossbar.hub": "大厅",
-
   "roguecraft.compass.fortress": "下界要塞",
   "roguecraft.compass.stronghold": "要塞",
   "roguecraft.compass.nether": "前往下界",
   "roguecraft.compass.entry": "下界入口",
-
   "roguecraft.title.victory": "胜利！",
   "roguecraft.title.defeat": "失败",
   "roguecraft.title.run_end_dragon": "屠龙",
   "roguecraft.title.infinite_garden": "无垠花园",
   "roguecraft.title.cosmic_dome": "宇宙穹顶",
-
   "roguecraft.chat_messages.stronghold_location_error": "要塞尚未被生成",
   "roguecraft.chat_messages.restart_all": "所有人都放弃了",
   "roguecraft.chat_messages.restart_first": "%s若要重新开始游戏，请输入'/trigger restart_run'来放弃当前周目",
@@ -70,7 +62,6 @@
   "roguecraft.chat_messages.difficulty_increase": "难度已提升至%s",
   "roguecraft.chat_messages.ability_no_soul_charge": "你没有足够的魂能来施放此技能",
   "roguecraft.chat_messages.ability_no_entity_nearby": "附近没有可用来施放此技能的目标",
-  
   "roguecraft.chat_messages.upgrade": "升级",
   "roguecraft.chat_messages.upgrade_buy": "你升级了你的%s",
   "roguecraft.chat_messages.upgrade_sell": "你降级了你的%s",
@@ -92,11 +83,8 @@
   "roguecraft.chat_messages.class_select": "你选择了%s作为你的职业",
   "roguecraft.chat_messages.class_buy": "你解锁了%s%s",
   "roguecraft.chat_messages.class_sell": "你移除了%s%s",
-  
   "roguecraft.chat_messages.unlock_upgrades": "你解锁了新的升级作为击杀Boss的奖励！",
-  
   "roguecraft.chat_messages.chester": "这个灵魂对你微微一笑……",
-  
   "roguecraft.hub.name.upgrades": "升级",
   "roguecraft.hub.name.abilities": "技能",
   "roguecraft.hub.name.classes": "职业",
@@ -104,7 +92,6 @@
   "roguecraft.hub.name.seal": "封印",
   "roguecraft.hub.name.tutorial": "教程",
   "roguecraft.hub.name.cosmic_dome": "宇宙穹顶",
-
   "roguecraft.upgrade.name.defense": "防御力",
   "roguecraft.upgrade.name.max_health": "最大生命值",
   "roguecraft.upgrade.name.speed": "速度",
@@ -147,7 +134,6 @@
   "roguecraft.upgrade.name.mana_regen": "法力回复",
   "roguecraft.upgrade.name.max_mana": "最大法力值",
   "roguecraft.upgrade.name.dummy_upgrade": "测试用升级",
-  
   "roguecraft.ability.name.ability_explosion": "爆裂冲击",
   "roguecraft.ability.name.ability_mining": "开天辟地",
   "roguecraft.ability.name.ability_arrow_wave": "矢如雨下",
@@ -163,7 +149,6 @@
   "roguecraft.ability.description.ability_arrow_wave": "在你的周围射出一阵箭雨",
   "roguecraft.ability.description.ability_fireball": "发射一个受到撞击就会爆炸的火球",
   "roguecraft.ability.description.ability_heal": "快速回复少量生命值",
-  
   "roguecraft.class.name.tank": "重装战士",
   "roguecraft.class.name.mage": "魔法术士",
   "roguecraft.class.name.healer": "神圣牧师",
@@ -173,7 +158,6 @@
   "roguecraft.class_ability.healer_error_all_alive": "当前没有死亡的玩家来被复活",
   "roguecraft.class_cost.reaper": "全部魂能",
   "roguecraft.class_ability.glass_cannon_error": "你需要3颗心以上的生命值来使用这个技能",
-  
   "roguecraft.advancement.name.all_dummy": "全副武装？",
   "roguecraft.advancement.name.avatar": "飞檐走壁",
   "roguecraft.advancement.name.completion": "全副武装",
@@ -220,7 +204,6 @@
   "roguecraft.advancement.description.destroy_hub": "尝试破坏大厅（如果真的破坏成功了，请向作者报告漏洞哦~）",
   "roguecraft.advancement.description.infinite_garden_void": "在无垠花园里死亡",
   "roguecraft.advancement.description.first_ability": "购买你的第一个技能",
-
   "roguecraft.loadout.sword": "剑",
   "roguecraft.loadout.pickaxe": "镐",
   "roguecraft.loadout.shovel": "铲",
@@ -230,7 +213,6 @@
   "roguecraft.loadout.golden_apple": "金苹果",
   "roguecraft.loadout.pearl": "末影珍珠",
   "roguecraft.loadout.lore": "用于修改你的装配",
-
   "roguecraft.tutorial.title.vanilla_changes": "与原版不同的修改",
   "roguecraft.tutorial.title.difficulty_level": "难度等级",
   "roguecraft.tutorial.title.progression": "游戏进程",
@@ -239,46 +221,34 @@
   "roguecraft.tutorial.title.shops": "商店",
   "roguecraft.tutorial.title.abilities_and_classes": "技能和职业",
   "roguecraft.tutorial.title.cosmic_dome": "宇宙穹顶",
-
   "roguecraft.tutorial.shops.page_0": "--------商店--------\n在这个数据包中，商店是游戏进程的一个至关重要的部分。它们位于宇宙穹顶，并允许你在升级、技能和职业上花费技能点。\n在这个讲台右侧有一个虚拟商店，它以0技能点的价格售卖一个无用的升级，你可以通过这个了解商店是如何运作的。\n这里有四种不同的商店。",
   "roguecraft.tutorial.shops.page_1": "第一种被简称为“升级商店”。它们的运作方式与虚拟商店十分相似。它们以一个单一的价格出售升级，直到你达到其最高等级。\n下一种商店被称为“渐进商店”。它们不在头顶的文本里展示它们的价格，这是因为它们的价格会随着该升级的等级增长。",
   "roguecraft.tutorial.shops.page_2": "第三种商店被称作“职业商店”。它们只售卖职业。它们与其它商店最大的区别在于它们只有一级，而且在你解锁它们后，你可以右键它们来装备或卸下该职业。这将在下一个讲台中进一步解释。",
   "roguecraft.tutorial.shops.page_3": "最后一个商店被称为“技能商店”。它们出售主动技能，而且表现得像渐进商店，因为它们的价格取决于该升级的等级。这些商店的最高等级总是3。要将你的技能物品绑定到商店中显示的技能，只需在点击商店的同时手持相应的技能物品。这将在下一本书中进一步解释。",
   "roguecraft.tutorial.shops.page_4": "------商店等阶------\n你可能已经注意到虚拟商店上方有一把锁。锁显示了商店的等阶。商店等阶间接表示了该升级的最高等级，后者需要通过提升商店等阶来增加。需要通过击败Boss来提升商店等阶。当商店为金锁时，它是完全锁住的，阻止你购买该升级。银锁允许你购买一部分升级，铜锁允许你购买大部分，而没有锁的商店是完全解锁的。",
   "roguecraft.tutorial.shops.page_5": "------移除升级------\n如果您想降低升级级别，只需手持“降级器”物品，右键单击相应的商店，§l同时蹲下§r。\n\n§l重要提示§r：这不会返回任何技能点，所以请小心！",
-  "roguecraft.tutorial.shops.page_6": "",
-  "roguecraft.tutorial.shops.page_7": "",
-  "roguecraft.tutorial.shops.page_8": "",
+  "roguecraft.tutorial.shops.page_6": "-----§oShop Tiers§r-----\nYou may have noticed a lock above the dummy shop. Locks display the shop tier. A shop tier indicates the highest level of that upgrade, which is increased by increasing the tier of the shop. This is done by defeating bosses. With a golden lock, the shop is fully locked,",
+  "roguecraft.tutorial.shops.page_7": "preventing you from buying any upgrades. Silver locks allow you to buy some upgrades, bronze locks allow you to buy most of them, and shops without locks above them are fully unlocked.",
+  "roguecraft.tutorial.shops.page_8": "-§oRemoving Upgrades§r-\nIf you want to decrease your level of an upgrade, simply hold the \"Upgrade Remover\" item and right click the appropiate shop §lwhile shifting§r.\n\nIMPORTANT: This will not return any skillpoints, so be careful!",
   "roguecraft.tutorial.shops.page_9": "",
-  
   "roguecraft.tutorial.vanilla_changes.page_0": "--与原版不同的修改--\n你游玩此数据包时获取的升级过于强大，因此，要平衡这一点，游戏的难度要大得多。\n第一个变化是你的初始血量被削减至只有5颗心，而不是通常的10颗。这将使生存在前期变得更具挑战性，因此在前期游戏中投资于血量升级可能是个好主意。",
   "roguecraft.tutorial.vanilla_changes.page_1": "第二个变化的影响力要大得多。由于你可以在大厅解锁护甲、工具和武器升级，所有这些配方都将被禁用。你将无法制作工具（镐、铲子、斧头和锄头）、武器（剑和弓）和护甲。你仍然可以制作一些比较重要的物品，包括打火石、水桶、盾牌、弩、海龟帽、剪刀和鱼竿。",
-  
   "roguecraft.tutorial.difficulty_level.page_0": "------难度等级------\n在这个数据包中，难度等级是重要的难度附加之一。它会展示在屏幕顶部并缓慢提升，直到它等级提升。\n在难度等级为1时，所有方面都与原版相同。但是当难度等级来到2时，所有怪物都将获得buff加成。这包括给僵尸和骷髅装备护甲、增加苦力怕的爆炸范围，甚至给予可持有物品的怪物一个不死图腾。",
   "roguecraft.tutorial.difficulty_level.page_1": "当难度等级达到10时，怪物们将不会获得buff加成，但是只要难度等级超过10时，每次升级玩家的血量都会下降2颗心。所以，在11级你将会失去你的前2颗心，然后12级再一次，13级再一次，以此类推。这将会持续到所有玩家的血量都只剩一颗心。",
   "roguecraft.tutorial.difficulty_level.page_2": "由于这一变化，如果你想通关，你将不得不快速推进进度。尽管如此，新手也还是很容易通关，所以可以随意学习些速通技巧以取得优势。",
-  "roguecraft.tutorial.difficulty_level.page_3": "",
+  "roguecraft.tutorial.difficulty_level.page_3": "Due to this change, you are encouraged to progress quickly if you want to beat the game. It is still very much possible to beat as even an inexperienced player, but feel free to learn some strategies from speedruns to gain an advantage.",
   "roguecraft.tutorial.difficulty_level.page_4": "",
-
   "biome.roguecraft.infinite_garden": "无垠花园",
-
   "roguecraft.speedrun.timer": "速通计时器",
   "roguecraft.speedrun.single_run": "单局游戏",
   "roguecraft.speedrun.new_world": "新的世界",
   "roguecraft.speedrun.wildfire_message": "[%s] 你在 %s 内击败了狂焰人",
   "roguecraft.speedrun.ender_dragon_message": "[%s] 你在 %s 内击败了末影龙",
-  
   "roguecraft.chat_messages.golden_scythe_no_requirements": "你尚未满足要求条件",
   "roguecraft.chat_messages.golden_scythe_equip": "你的手中掌握了黄金镰刀的无穷力量",
   "roguecraft.chat_messages.golden_scythe_unequip": "你从黄金镰刀那令人窒息的力量感中抽身而出",
-
-
-  
-  
-
   "roguecraft.generic.yes": "Yes",
   "roguecraft.generic.no": "No",
-
   "roguecraft.upgrade.name.entity_reach": "Entity Reach",
   "roguecraft.upgrade.name.block_reach": "Block Reach",
   "roguecraft.upgrade.name.step_height": "Step Height",
@@ -287,7 +257,6 @@
   "roguecraft.upgrade.name.soul_speed": "Soul Speed",
   "roguecraft.upgrade.name.wood": "橡木木板",
   "roguecraft.upgrade.name.magic_strength": "Magic Strength",
-
   "roguecraft.ability.name.ability_shockbolt": "Shockbolt",
   "roguecraft.ability.name.ability_copy": "Copy",
   "roguecraft.ability.description.ability_shockbolt": "Shoots a powerful beam of electricity",
@@ -297,16 +266,13 @@
   "roguecraft.ability.description.ability_spikes": "在正确的时机使用来格挡并免疫一次伤害",
   "roguecraft.ability.description.ability_levitate": "给予你反重力漂浮效果",
   "roguecraft.ability.description.ability_dirt_walker": "自动在你的脚下放置土方块，让你可以在空中行走",
-
   "roguecraft.class.name.hunter": "Hunter",
-  
   "roguecraft.class.description.tank": "被动：你拥有额外生命值；主动：获得10秒抗性V效果",
   "roguecraft.class.description.mage": "被动：增加你的法力值回复速度，并给予你一个额外技能槽位",
   "roguecraft.class.description.healer": "被动：大幅提升周围玩家的生命回复；主动：消耗4颗心来复活一个玩家",
   "roguecraft.class.description.glass_cannon": "被动：你的护甲升级改为提升力量效果；主动：消耗3颗心来提升力量",
   "roguecraft.class.description.reaper": "被动：击杀生物来摄取施放技能所需的魂能；主动：释放一个复仇魂灵",
   "roguecraft.class.description.hunter": "Harness the power of nature and set traps for your foes",
-
   "roguecraft.class_ability.invulnerable_shield": "Invulnerable Shield",
   "roguecraft.class_ability.adrenaline": "Adrenaline",
   "roguecraft.class_ability.vengeful_spectre": "Vengeful Spectre",
@@ -321,9 +287,7 @@
   "roguecraft.class_ability.stun_trap": "Stun Trap",
   "roguecraft.class_ability.phantasm": "Phantasm",
   "roguecraft.class_ability.final_adrenaline": "Final Adrenaline",
-
   "roguecraft.class.toggle_ability": "You toggled your class ability to %s",
-
   "roguecraft.advancement.name.root_progression": "Roguecraft - Progression (Spoilers)",
   "roguecraft.advancement.name.root_challenges": "Roguecraft - Challenges",
   "roguecraft.advancement.name.truest_completion": "10000%%",
@@ -343,10 +307,8 @@
   "roguecraft.advancement.description.instant_regret": "在使用盛气凌人后三秒内死亡",
   "roguecraft.advancement.description.hero_of_the_village": "Defeat the Arcane Colossus",
   "roguecraft.advancement.description.one_above_mortality": "Obtain a weapon worthy only of a god",
-
   "roguecraft.compass_target.giant": "Giant",
   "roguecraft.compass_target.wildfire_dragon": "Wildfire + Ender Dragon",
-
   "roguecraft.chat_messages.change_compass_target_error_not_unlocked": "You cannot select this target",
   "roguecraft.chat_messages.cancel_ability": "You stopped using %s",
   "roguecraft.chat_messages.ability_copied": "You copied %s",
@@ -375,100 +337,83 @@
   "roguecraft.chat_messages.toggle_info_message": "• Info messages [%s]",
   "roguecraft.chat_messages.toggle_single_run_timer": "• Single Run speedrun timer [%s]",
   "roguecraft.chat_messages.toggle_new_world_timer": "• New World speedrun timer [%s]",
-  
   "roguecraft.book.giant.1": "The analysis of Mana, Souls and Life Force has yielded some interesting results: They are one and the same, only from different sources, and in different forms.\nWith our extended knowledge of magic, we are now experimenting with new types of footsoldiers. The",
   "roguecraft.book.giant.2": "evokers in particular are turning out especially promising, but we are even experimenting with duplication of biomass, though this has proven to be quite the challenge. So far, this only appears to be a visual change.",
   "roguecraft.book.giant.3": "",
-  
   "roguecraft.book.hideout.1": "We lost.\n\nAs much as I hate to admit it, we lost.\n\nI suppose we managed to seal him away, but still, this isn't over, far from it. We could all one day just die, and the seal would break. We need to make sure that this never happens.",
   "roguecraft.book.hideout.2": "Speaking of death, Jean isn't doing too good. There's this purple corruption spreading inside of her, so we're considering locking her away inside of the end as well.\n\nAt least it's a place she's familiar with, but it still pains me to do this.",
   "roguecraft.book.hideout.3": "This is all my fault. I wanted to get this done as soon as possible, but we simply weren't strong enough.\nOr maybe...\n\n\"A king is no match for a god\". Maybe there's truth to those words, I suppose I should've taken him more seriously",
   "roguecraft.book.hideout.4": "Either way, now all we can do is wait, until the end of time.\n\nI'm starting to feel some of that corruption brewing up inside me as well, perhaps it's time for me to leave the others.\n\nFarewell, my friends.\nI am sorry.",
   "roguecraft.book.hideout.5": "",
-
   "roguecraft.warning.prefix": "WARNING",
   "roguecraft.warning.repair": "<%s> Some important entities have been killed. Starting repair of hub. Please do not use '/kill @e' or similar commands",
   "roguecraft.warning.incompatibility": "<%s> Incompatible mods or clients detected, such as lunar client.\nPlease create a new world from scratch on a vanilla or slightly modded instance, or you will run into more severe errors later on.\nPlease check the current incompatibilities on the wiki:\n\nhttps://roguecraft.wiki.gg/incompatibilities",
-
   "advancements.story.enchant_item.description": "Enchant an item",
   "roguecraft.class_ability.final_adrenaline_error_active": "Final Adrenaline is already active",
-
   "roguecraft.tutorial.title.introduction": "Introduction",
   "roguecraft.tutorial.title.mid_run_upgrades": "Mid-Run Upgrades",
-
   "roguecraft.tutorial.introduction.page_0": "--------介绍--------\n欢迎来到 §lRoguecraft§r！这个数据包致力于将我的世界变为一款“轻度肉鸽类”(Roguelite)游戏。如果你已经知道什么是肉鸽游戏，你可以跳过到第3页。Roguelite是Roguelike（肉鸽游戏）的一个变种。笼统来说，这种游戏的世界是随机生成的，且整个游戏演变会经过很多局。",
   "roguecraft.tutorial.introduction.page_1": "在肉鸽游戏里，你死亡时会失去所有进度；而在轻度肉鸽游戏里，你可以保留一部分进度。也就是说你可以通过解锁一些永久升级来协助你寻找和击败末影龙。这些升级积少成多，到达一定程度后可以让你一局从头到尾打到通关。",
   "roguecraft.tutorial.introduction.page_2": "--------教程--------\n你目前在本数据包大厅“宇宙穹顶”的教程区域。你可以参阅这里的讲台来了解此数据包加入和修改的内容。这些信息会对你非常有帮助，但你不需要记住全部这些来享受这个游戏。",
   "roguecraft.tutorial.introduction.page_3": "你唯一需要记住的就是左侧第一个讲台后面的合成配方。你可以随时回来参考这里的教程，所以你如果不想阅读，要直接开始游戏的话，请将上面说的合成配方截图保存一下，走到房间尽头就可以开始了。如果你想要跟随教程的话，就仔细阅读剩下的讲台吧。无论如何，祝你好运，并且在Roguecraft玩得开心！",
-  "roguecraft.tutorial.introduction.page_4": "",
-  "roguecraft.tutorial.introduction.page_5": "",
+  "roguecraft.tutorial.introduction.page_4": "help you during your journey whenever needed. You can disable those too if you want by running the command '/trigger toggle_info_messages'.\nIf you need help finding points of interest during runs, make sure to buy the loadstone compass upgrade.",
+  "roguecraft.tutorial.introduction.page_5": "There is also an official wiki, which you can get to by %s.\nWhatever you end up doing, I wish you the best of luck with Roguecraft. Have fun!\n",
   "roguecraft.tutorial.introduction.page_6": "",
   "roguecraft.tutorial.wiki_link": "clicking here",
-
   "roguecraft.tutorial.skillpoints.page_0": "-------技能点-------\n在这个数据包中，技能点是最重要的资源。它们可以用于在大厅中购买升级、技能和职业。它们可以使用两种方法获取。第一种是简单地通过位于讲台后方的配方合成。第一个配方会给予你一个技能点，第二个会给予你两个技能点，而最后一个则是四个技能点。",
   "roguecraft.tutorial.skillpoints.page_1": "你可以在第三页找到有关配方中间的物品的更多信息。\n第二种获得技能点的方法是简单地达成成就，每个成就会给予你一个技能点。\n注意，未使用的技能点会在每次开始新周目时消失，所以在大厅区时，一定要尽你所能地消费！",
   "roguecraft.tutorial.skillpoints.page_2": "------技能宝石------\n技能宝石是合成技能点时最主要的材料（它们是位于讲台后方的配方里中间的物品）。它们只能在每次达到新的1级经验等级时获得，这使得它们十分珍贵。最重要的是，你的经验等级越高，就越难获得它们。如果你设法降低你的经验等级，你将§l不能§r通过达到你已经达到的等级来获得另一个技能宝石。",
   "roguecraft.tutorial.skillpoints.page_3": "例如，如果你的等级从21级降低到20级，你将无法通过再次达到21级获得第二颗技能宝石。",
-  "roguecraft.tutorial.skillpoints.page_4": "",
-  "roguecraft.tutorial.skillpoints.page_5": "",
+  "roguecraft.tutorial.skillpoints.page_4": "----§oMob Essence§r----\nThis crafting ingredient can be obtained by killing any mob. The rarer or stronger that mob is, the better the mob essence it will drop. Upon killing a certain amount of specific mobs, their soul will become exhausted, meaning they will only drop low value mob",
+  "roguecraft.tutorial.skillpoints.page_5": "essence, so you’ll have to kill other mobs to gain better mob essence. This exhaustion will end upon starting a new run.",
   "roguecraft.tutorial.skillpoints.page_6": "",
-
   "roguecraft.tutorial.vanilla_changes.page_2": "因为如果没有工具，游戏是不可能打败的，所以你在开始时会有一把石镐。有了这一点，再加上一些速通技巧，比如用水桶建造一个传送门，理论上足以通关整个游戏。以及，所有通过升级获得的工具都是无法破坏的。",
   "roguecraft.tutorial.vanilla_changes.page_3": "最后，即使配方被禁用，其中一些物品仍然会出现在战利品箱或村民交易中。虽然这不是一种很稳定的策略，但有时这些物品可以用来突破常规的通关路径",
-  "roguecraft.tutorial.vanilla_changes.page_4": "",
+  "roguecraft.tutorial.vanilla_changes.page_4": "disabled, some of these items will still show up in loot chests or villager trades. This will be further explained in \"Mid-Run Upgrades\".\nLastly, some parts of the game have been modified to work better with the core loop of this data pack, mostly including structures.",
   "roguecraft.tutorial.vanilla_changes.page_5": "",
-
   "roguecraft.tutorial.abilities_and_classes.page_0": "--------技能--------\n技能是强大，且活跃的魔咒。它们可以在大厅中购买，之后你必须手持一个你的技能物品，并单击商店将该技能物品绑定到商店中显示的技能。你默认拥有三个技能物品，但是如果你选择了魔法术士职业，你会获得一个额外的技能物品。它们在绑定完技能后会在每次周目出现在你的物品栏中，之后你可以手持该物品左键或右键使用技能。",
   "roguecraft.tutorial.abilities_and_classes.page_1": "技能没有冷却时间，但是它们需要花费法力值。",
   "roguecraft.tutorial.abilities_and_classes.page_2": "-------法力值-------\n当你绑定了你的第一个技能，一个法力值条将会出现在屏幕顶部。它将会告诉你你现在的法力值，这是使用技能必须花费的资源。你的法力值将会缓慢恢复，直到它达到最大值。",
   "roguecraft.tutorial.abilities_and_classes.page_3": "--------魂能--------\n对于收割者职业，你使用灵魂来施放技能，而不是法力值。灵魂可以通过杀死大多数怪物来获得。\n虽然每种技能的法力值消耗各不相同，但对于收割者职业来说，每种技能都有一个固定的1魂能消耗。",
   "roguecraft.tutorial.abilities_and_classes.page_4": "--------职业--------\n职业是强大的典型，可以通过技能点解锁。它们给你被动的奖励，以及一个新的职业技能。\n你可以通过购买它们然后点击它们来选择一个职业。如果您再次单击它们，您将取消选择该职业。\n你也只能一次选择一个职业，所以选择适合你游戏风格的职业吧。",
   "roguecraft.tutorial.abilities_and_classes.page_5": "------职业技能------\n职业技能是与每个职业绑定的更强大的技能。其中有两个特殊情况是，分别是魔法术士和玻璃大炮的技能。魔法术士的职业技能仅仅只是拥有第四个技能物品，其在默认情况下与物品栏中的其他三个技能物品相同。",
-  "roguecraft.tutorial.abilities_and_classes.page_6": "",
-  "roguecraft.tutorial.abilities_and_classes.page_7": "",
+  "roguecraft.tutorial.abilities_and_classes.page_6": "You can also only select one class at a time, so choose something that works for your playstyle.",
+  "roguecraft.tutorial.abilities_and_classes.page_7": "---§oClass Abilities§r---\nEach class also has multiple class abilities, which are usually much more powerful that normal abilities, and are more suited towards the playstyle of each class. You can toggle between these by sneak-right clicking the class ability spell book.",
   "roguecraft.tutorial.abilities_and_classes.page_8": "Mage is an exception, having no special class abilities, instead gaining a fourth ability slot.",
   "roguecraft.tutorial.abilities_and_classes.page_9": "",
-
   "roguecraft.tutorial.progression.page_0": "------游戏进程------\n在这个数据包中，游戏进程进行了一次大改。一般来说，如果您需要帮助，请尝试解锁“磁石指针”升级。这个指南针会指引你走向下一个目标，除非你手持它，否则它不会改变状态。注意，当末地要塞生成后，末影之眼将§l不会§r引领你去往末地要塞。",
   "roguecraft.tutorial.progression.page_1": "它的坐标将会在其生成时展示在聊天框内。可以使用/trigger stronghold_location再次查看。",
   "roguecraft.tutorial.progression.page_2": "-------方尖碑-------\n这是一个位于宇宙穹顶南边的奇怪房间。尝试点击一个方尖碑。也许他们逸散的灵魂会指引你走向终点。",
   "roguecraft.tutorial.progression.page_3": "",
-
   "roguecraft.tutorial.mid_run_upgrades.page_0": "--§oMid-Run Upgrades§r--\nBeating Minecraft with only a stone pickaxe can be challenging, so by finding equipment like tools, weapons and armor, you’ll be able to directly upgrade your equipment. For example, if you have leather armor and pick up an iron chestplate, your",
   "roguecraft.tutorial.mid_run_upgrades.page_1": "chestplate will be directly upgraded to iron, keeping any existing enchantments as well.",
   "roguecraft.tutorial.mid_run_upgrades.page_2": "---§oEnchantments§r---\nFinding an enchanted piece will also add its enchantments to that piece on the player. Picking up enchanted books will enchant all applicable pieces with that enchantment.",
   "roguecraft.tutorial.mid_run_upgrades.page_3": "",
-
   "roguecraft.tutorial.cosmic_dome.page_0": "------宇宙穹顶------\n你现在正处于宇宙穹顶内部，这个数据包的大厅区域。它含有一些对于游戏进程十分重要的房间，以及通往无垠花园的通道。",
   "roguecraft.tutorial.cosmic_dome.page_1": "-------物品栏-------\n当你处于宇宙穹顶时，你的物品栏里会有一些物品。第一些被称为“技能物品”，可以通过手持你想绑定技能的技能物品右键一个已解锁其技能的商店来绑定技能。\n下一个是“降级器”物品，你可以手持它并蹲下点击一个商店来删除该升级的一级。请注意，这不会返回任何技能点，它只是允许你删除不想要的升级。",
   "roguecraft.tutorial.cosmic_dome.page_2": "你的快捷栏的最后一个物品是“开始游戏”物品。只需右键单击此物品即可准备。当所有玩家都准备好后，将会开启一个新周目。\n你的物品栏的其余部分都装满了装配物品。通过将这些物品放入你的修改装配箱（位于升级区的入口处），你可以定制你在开始游戏时的物品栏。在游戏过程中，修改装配箱中没有的任何物品都不会提供给您。重复的物品将在开始游戏时删除。",
   "roguecraft.tutorial.cosmic_dome.page_3": "------无垠花园------\n这个区域可以通过宇宙穹顶北边的通道到达。它是一个边缘区域，在这里你可以使用游戏中收集的材料简单地建造任何你想要的东西。材料将显示为光束。跟随它来取回你的物品。随着你的游戏进程，你可能还会遇到一些动物。你在一次游戏中的最高技能点越高，你将遇到越多的动物，一次游戏最多可获得五百个技能点。",
   "roguecraft.tutorial.cosmic_dome.page_4": "当这种事发生时，也许你会找到一个特别的灵魂。\n如果你在无垠花园迷路了，或者想快点回到宇宙穹顶，请在聊天中键入/trigger hub_tp。",
-  "roguecraft.tutorial.cosmic_dome.page_5": "",
-  "roguecraft.tutorial.cosmic_dome.page_6": "",
-  "roguecraft.tutorial.cosmic_dome.page_7": "",
+  "roguecraft.tutorial.cosmic_dome.page_5": "-The Infinite Garden-\nThis area can be accessed by exiting the Cosmic Dome through the northern tunnel. It’s meant as a side area where you can build whatever you want using the materials gathered during a run. These will appear at light beams, so called memory beacons,",
+  "roguecraft.tutorial.cosmic_dome.page_6": "scattered throughout the Infinite Garden. Simply right click them to retrieve your items.\nAs you progress, you may also encounter some animals. The higher your highest ever amount of skillpoints during a single run was, the more animals you will encounter, up to 500 skillpoints in a single",
+  "roguecraft.tutorial.cosmic_dome.page_7": "run. Maybe you'll find a special soul once that happens.\nIf you're lost in the Infinite Garden or quickly want to return to the Cosmic Dome, type \"/trigger hub_tp\" in chat.",
   "roguecraft.tutorial.cosmic_dome.page_8": "",
   "roguecraft.tutorial.cosmic_dome.page_9": "",
-  
   "roguecraft.bossbar.final_adrenaline": "Final Adrenaline: %s Kills Left",
   "roguecraft.bossbar.final_adrenaline_safe": "Final Adrenaline: Safe",
-
   "roguecraft.bossbar.giant": "Giant",
   "roguecraft.bossbar.giant_variant": "John Roguecraft",
   "roguecraft.bossbar.ender_dragon_variant": "Jean",
   "roguecraft.title.run_end_giant": "Colossus Slain",
-
   "roguecraft.title.ender_dragon.main": "The Ender Dragon",
   "roguecraft.title.ender_dragon.subtitle": "Tyrant of the End",
   "roguecraft.title.wildfire.main": "The Wildfire",
   "roguecraft.title.wildfire.subtitle": "Hovering Inferno",
   "roguecraft.title.giant.main": "The Giant",
   "roguecraft.title.giant.subtitle": "Arcane Colossus",
-
   "roguecraft.speedrun.giant_message": "[%s] You defeated the Giant in %s",
   "roguecraft.speedrun.personal_best": "You've reached a new personal best!",
   "roguecraft.speedrun.tell_personal_best": "Personal best: %s",
-
   "roguecraft.info_message.info_messages": "%s You will occasionally get info messages like these about some of Roguecraft's features. These are recommended on your first playthrough, but you can run '/trigger toggle_info_messages' to disable them.",
   "roguecraft.info_message.multiplayer_death": "%s You can return to the Cosmic Dome while other players are still alive by running '/trigger return_to_hub'",
   "roguecraft.info_message.mid_run_upgrades": "%s Finding equipment during a run will upgrade your starter equipment to that tier or to those enchantments for the duration of the run, all while staying unbreakable.",
@@ -488,7 +433,6 @@
   "roguecraft.info_message.missing_equipment_upgrade": "%s Equipment upgrades can only be applied to your starting equipment. It will automatically be applied once you pick that starter item back up.",
   "roguecraft.info_message.mob_exhausted": "%s After killing a certain number of mobs during a single run, they will stop dropping higher tier mob essences. This exhaustion is reset every run.",
   "roguecraft.info_message.class_ability": "%s You can cycle between class abilities by sneak-right clicking the gold trimmed book",
-
   "death.attack.damage_sphere": "%1$s was disintegrated by a pulse sphere",
   "death.attack.damage_sphere.item": "%1$s was disintegrated by a pulse sphere",
   "death.attack.damage_sphere.player": "%1$s was disintegrated by a pulse sphere while fighting %2$s",
@@ -517,7 +461,6 @@
   "death.attack.shockbolt": "%1$s felt 100000 volts coursing through their body",
   "death.attack.shockbolt.item": "%1$s felt 100000 volts coursing through their body",
   "death.attack.shockbolt.player": "%1$s felt 100000 volts coursing through their body while fighting %2$s",
-
   "painting.roguecraft.froge.title": "Spoon Froge",
   "painting.roguecraft.froge.author": "Unknown Author",
   "painting.roguecraft.business_mono.title": "[Fanart] Business Mono",
@@ -528,14 +471,12 @@
   "painting.roguecraft.golden_scythe_arg.author": "WrenderDraws",
   "painting.roguecraft.roguecraft_title.title": "[Fanart] Roguecraft",
   "painting.roguecraft.roguecraft_title.author": "WrenderDraws",
-
   "roguecraft.dialogue_name.raid": "Illager Captain",
   "roguecraft.dialogue.raid_1": "<%s> The time has come to unleash the true might of the illager army.",
   "roguecraft.dialogue.raid_2": "<%s> ATTACK!",
   "roguecraft.dialogue.raid_3": "<%s> Even the evokers? Well, we still have an ace up our sleeves.",
   "roguecraft.dialogue.raid_4": "<%s> Demolish them, arcane colossus!",
   "roguecraft.dialogue.raid_5": "<%s> Retreat! Retreat!",
-  
   "block.minecraft.command_block": "Lower Mob Essence",
   "block.minecraft.chain_command_block": "Common Mob Essence",
   "block.minecraft.repeating_command_block": "Higher Mob Essence",
@@ -549,14 +490,12 @@
   "roguecraft.item.paxel": "%s Paxel",
   "roguecraft.item.enchanted_golden_carrot": "Enchanted Golden Carrot",
   "roguecraft.item.knife": "%s Knife",
-
   "roguecraft.item.lore.false_gold": "A weapon yearning for the power of a god, forged by one beneath their power",
   "roguecraft.item.lore.scroll_cost_none": "Cost: None",
   "roguecraft.item.lore.scroll_cost": "%s: %s %s",
   "roguecraft.lore.exhausted": "Exhausted",
   "roguecraft.item.lore.hub_compass_1": "Can be used in the Seal room on the obelisks",
   "roguecraft.item.lore.hub_compass_2": "Interact to set the target of your lodestone compass",
-
   "roguecraft.equipment_upgrades.sword": "Sword",
   "roguecraft.equipment_upgrades.pickaxe": "Pickaxe",
   "roguecraft.equipment_upgrades.shovel": "Shovel",
@@ -585,7 +524,6 @@
   "roguecraft.equipment_upgrades.enchantment": "[%s] %s: %s -> %s",
   "roguecraft.equipment_upgrades.equipment": "[%s] %s -> %s",
   "roguecraft.equipment_upgrades.gold_upgrade": "There's no need to upgrade perfection",
-
   "roguecraft.skillpoint.main": "[%s] +%s✦ (%s✦ in total)",
   "roguecraft.skillpoint.mineral_crafting": "Mineral Crafting",
   "roguecraft.skillpoint.mob_essence_crafting": "Mob Essence Crafting",
@@ -599,7 +537,6 @@
   "roguecraft.skillpoint.piglin_bartering": "Piglin Bartering",
   "roguecraft.skillpoint.sniffer": "Sniffer",
   "roguecraft.skillpoint.boss_phase": "Boss Phase",
-
   "roguecraft.obelisk.name": "Obelisk",
   "roguecraft.obelisk.corpus.inactive": "……",
   "roguecraft.obelisk.sol.inactive": "离开这里，愚人！你不配在我面前出现。",
@@ -613,14 +550,9 @@
   "roguecraft.obelisk.corpus.defeat": "<%s> I was the Giant, the arcane colossus...",
   "roguecraft.obelisk.anima.inactive": "我生来的意义就是守护。我的力量不断成长。若要面对我的主人，就先面对我的全盛姿态。",
   "roguecraft.obelisk.divus.inactive": "* 这座方尖碑的存在让你感觉充满恐惧。",
-
   "roguecraft.event.blue_moon": "The blue moon is rising...",
-
   "roguecraft.update.finished": "[%s] Update complete!",
   "roguecraft.reset.1300": "[%s] It is recommended to start a new playthrough for this update. Would you like to reset your progress?\n[%s]",
-
-  
-  
   "item.minecraft.potion.effect.mana_potion.small": "Small Mana Potion",
   "item.minecraft.potion.effect.mana_potion.medium": "Medium Mana Potion",
   "item.minecraft.potion.effect.mana_potion.large": "Large Mana Potion",
@@ -628,16 +560,13 @@
   "roguecraft.item.lore.mana_potion_1": "Restores %s mana",
   "roguecraft.item.lore.mana_potion_2": "[%s] + [%s] to destroy the bottle instantly",
   "roguecraft.item.lore.mana_potion_3": "Restores %s mana to all nearby players",
-
   "death.attack.wildfire_pulse": "%1$s was incinerated by the wildfire",
   "death.attack.wildfire_pulse.item": "%1$s was incinerated by the wildfire",
   "death.attack.wildfire_pulse.player": "%1$s was incinerated by the wildfire",
   "death.attack.giant_stomp": "%1$s was goomba-stomped by the giant",
   "death.attack.giant_stomp.item": "%1$s was goomba-stomped by the giant",
   "death.attack.giant_stomp.player": "%1$s was goomba-stomped by the giant",
-
   "roguecraft.compass.pillager_outpost": "Ominous Bottle",
   "roguecraft.compass.village": "Raid",
-  
   "roguecraft.misc.fallback": ""
 }

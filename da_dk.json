@@ -1,9 +1,7 @@
 {
   "language.roguecraft.translation_authors": "If you are translating this data pack, add your name here",
-  
   "enchantment.level.0": "0",
-  "container.enderchest": "\uEFF2\uF80A    Loadout",
-
+  "container.enderchest": "    Loadout",
   "roguecraft.generic.loadout": "Loadout",
   "roguecraft.generic.cost": "Pris",
   "roguecraft.generic.current_sp": "Nuværende Færdighedspoint",
@@ -14,21 +12,18 @@
   "roguecraft.generic.strength": "Styrke",
   "roguecraft.generic.ability": "Evne",
   "roguecraft.generic.soul_charge": "Soul Charge",
-
   "roguecraft.item.ability": "%s %s",
   "roguecraft.item.start_run": "Start Run",
   "roguecraft.item.unready": "Unready",
   "roguecraft.item.join_run": "Join Run",
   "roguecraft.item.remove_upgrade": "Downgrader",
   "roguecraft.item.scythe": "%s Scythe",
-  
   "roguecraft.prefix.wooden": "Wooden",
   "roguecraft.prefix.stone": "Stone",
   "roguecraft.prefix.golden": "Golden",
   "roguecraft.prefix.iron": "iron",
   "roguecraft.prefix.diamond": "Diamond",
   "roguecraft.prefix.netherite": "Netherite",
-  
   "roguecraft.bossbar.difficulty_level": "Sværhedsgrad: %s",
   "roguecraft.bossbar.liquid_walker": "Væske Vandrer",
   "roguecraft.bossbar.dirt_walker": "Jord Vandrer",
@@ -41,18 +36,15 @@
   "roguecraft.bossbar.welcome_1": "Velkommen til Roguecraft",
   "roguecraft.bossbar.welcome_2": "En Roguelite Data Pack til Minecraft",
   "roguecraft.bossbar.hub": "Hubbet",
-
   "roguecraft.compass.fortress": "Underverdens Borg",
   "roguecraft.compass.stronghold": "Fæstning",
   "roguecraft.compass.nether": "Kom ned i Underverdenen",
   "roguecraft.compass.entry": "Indgang til Underverdenen",
-
   "roguecraft.title.victory": "Sejr!",
   "roguecraft.title.defeat": "Besejret",
   "roguecraft.title.run_end_dragon": "Dragen blev Dræbt",
   "roguecraft.title.infinite_garden": "The Infinite Garden",
   "roguecraft.title.cosmic_dome": "The Cosmic Dome",
-
   "roguecraft.chat_messages.stronghold_location_error": "Fæstningen er ikke blevet genereret endnu",
   "roguecraft.chat_messages.restart_all": "Alle gav op",
   "roguecraft.chat_messages.restart_first": "%s vil give op. Skriv '/trigger restart_run' for at give op",
@@ -70,7 +62,6 @@
   "roguecraft.chat_messages.difficulty_increase": "Sværhedsgraden blev øget til %s",
   "roguecraft.chat_messages.ability_no_soul_charge": "You do not have enough soul charge for this ability",
   "roguecraft.chat_messages.ability_no_entity_nearby": "There are no nearby targets for the ability",
-  
   "roguecraft.chat_messages.upgrade": "upgrade",
   "roguecraft.chat_messages.upgrade_buy": "Du opgraderede din %s",
   "roguecraft.chat_messages.upgrade_sell": "You downgraded %s",
@@ -92,11 +83,8 @@
   "roguecraft.chat_messages.class_select": "Du valgte %s som din klasse",
   "roguecraft.chat_messages.class_buy": "Du opnåede %s %s",
   "roguecraft.chat_messages.class_sell": "You removed the %s %s",
-  
   "roguecraft.chat_messages.unlock_upgrades": "You unlocked new upgrades by defeating a boss!",
-  
   "roguecraft.chat_messages.chester": "The spirit smiled upon you...",
-  
   "roguecraft.hub.name.upgrades": "Upgrades",
   "roguecraft.hub.name.abilities": "Abilities",
   "roguecraft.hub.name.classes": "Classes",
@@ -104,7 +92,6 @@
   "roguecraft.hub.name.seal": "The Seal",
   "roguecraft.hub.name.tutorial": "Tutorial",
   "roguecraft.hub.name.cosmic_dome": "Cosmic Dome",
-
   "roguecraft.upgrade.name.defense": "Forsvar",
   "roguecraft.upgrade.name.max_health": "Antal Hjerter",
   "roguecraft.upgrade.name.speed": "Hurtighed",
@@ -147,7 +134,6 @@
   "roguecraft.upgrade.name.mana_regen": "Mana Regenerering",
   "roguecraft.upgrade.name.max_mana": "Maksimal Mana",
   "roguecraft.upgrade.name.dummy_upgrade": "Vejlednings Opgradering",
-  
   "roguecraft.ability.name.ability_explosion": "Eksplotion",
   "roguecraft.ability.name.ability_mining": "Område Miner",
   "roguecraft.ability.name.ability_arrow_wave": "Pil Chokbølge",
@@ -163,7 +149,6 @@
   "roguecraft.ability.description.ability_arrow_wave": "Skyder en chokbølge af pile omkring dig",
   "roguecraft.ability.description.ability_fireball": "Skyder en ildkugle, der eksploderer når den rammer",
   "roguecraft.ability.description.ability_heal": "Helbreder et par af dine hjerter",
-  
   "roguecraft.class.name.tank": "Tank",
   "roguecraft.class.name.mage": "Magiker",
   "roguecraft.class.name.healer": "Helbreder",
@@ -173,7 +158,6 @@
   "roguecraft.class_ability.healer_error_all_alive": "Der er ingen døde spillere at genoplive",
   "roguecraft.class_cost.reaper": "All Souls",
   "roguecraft.class_ability.glass_cannon_error": "Du har brug for mere end 3 hjerter for at bruge denne evne",
-  
   "roguecraft.advancement.name.all_dummy": "100 for prisen 0",
   "roguecraft.advancement.name.avatar": "Avatar",
   "roguecraft.advancement.name.completion": "100%",
@@ -220,7 +204,6 @@
   "roguecraft.advancement.description.destroy_hub": "Attempt to destroy the hub (extra points for making a bug report if you actually manage to destroy it)",
   "roguecraft.advancement.description.infinite_garden_void": "Die in the Infinite Garden",
   "roguecraft.advancement.description.first_ability": "Purchase your very first ability",
-
   "roguecraft.loadout.sword": "Sword",
   "roguecraft.loadout.pickaxe": "Pickaxe",
   "roguecraft.loadout.shovel": "Shovel",
@@ -230,7 +213,6 @@
   "roguecraft.loadout.golden_apple": "Golden Apples",
   "roguecraft.loadout.pearl": "Pearls",
   "roguecraft.loadout.lore": "Used for changing your loadout",
-
   "roguecraft.tutorial.title.vanilla_changes": "Vanilla Changes",
   "roguecraft.tutorial.title.difficulty_level": "Difficulty Level",
   "roguecraft.tutorial.title.progression": "Progression",
@@ -239,7 +221,6 @@
   "roguecraft.tutorial.title.shops": "Shops",
   "roguecraft.tutorial.title.abilities_and_classes": "Abilities and Classes",
   "roguecraft.tutorial.title.cosmic_dome": "The Cosmic Dome",
-
   "roguecraft.tutorial.shops.page_0": "§r-------§oShops§r-------Shops are a vital part of progression in this data pack. They are located in the Cosmic Dome and allow you to spend skillpoints on upgrades, abilities and classes.\nTo the to the right of this lectern is a dummy shop that sells a useless upgrade for 0 skillpoints so",
   "roguecraft.tutorial.shops.page_1": "you can get a feel for how shops work.\nThere are 4 different types of shops. The first one is simply called an \"upgrade shop\". These work exactly like the dummy shop. They sell upgrades for a flat price until you reach the max level.",
   "roguecraft.tutorial.shops.page_2": "The next type of shop is called a \"progressive shop\". These don't show their price in the text display above them, but instead only in the title above your hotbar. That's because their price increases as you increase the level of that upgrade.",
@@ -250,35 +231,24 @@
   "roguecraft.tutorial.shops.page_7": "preventing you from buying any upgrades. Silver locks allow you to buy some upgrades, bronze locks allow you to buy most of them, and shops without locks above them are fully unlocked.",
   "roguecraft.tutorial.shops.page_8": "-§oRemoving Upgrades§r-\nIf you want to decrease your level of an upgrade, simply hold the \"Upgrade Remover\" item and right click the appropiate shop §lwhile shifting§r.\n\nIMPORTANT: This will not return any skillpoints, so be careful!§",
   "roguecraft.tutorial.shops.page_9": "",
-  
   "roguecraft.tutorial.vanilla_changes.page_0": "---§oVanilla Changes§r---\nThe upgrades you'll obtain while playing this data pack are very powerful, so to balance this out, the game is significantly more difficult.\nThe first change is that your starting health is reduced to just 5 hearts instead of the usual 10. This will make survival a lot",
   "roguecraft.tutorial.vanilla_changes.page_1": "more challenging early on, so it might be a good idea to invest into health upgrades in the early game.\nThe second change is much more impactful. Since you can unlock armor, tool and weapon upgrades in the hub, all those recipes are disabled. You'll be unable to",
-  
   "roguecraft.tutorial.difficulty_level.page_0": "---§oDifficulty Level§r---\nThe difficulty level is one of the most significant difficulty additions in this data pack. It will show up at the top of the screen and slowly go up, until it reaches a new level.\nOn difficulty level 1, nothing changes compared to vanilla. However, once the difficulty level hits 2,",
   "roguecraft.tutorial.difficulty_level.page_1": "all mobs will receive buffs. This ranges from giving armor to zombies and skeletons, to increasing the blast radius of creepers, to even giving all mobs that can hold items a totem of undying.\nOnce the difficulty level reaches 10, mobs will no longer receive buffs, but",
   "roguecraft.tutorial.difficulty_level.page_2": "instead the player's health will go down by 2 hearts every time the difficulty multiplier increases past level 10. So for level 11, you will lose your first 2 hearts, then again for level 12, again for level 13, and so on. This goes on until all players reach only one heart of health.",
   "roguecraft.tutorial.difficulty_level.page_3": "Due to this change, you are encouraged to progress quickly if you want to beat the game. It is still very much possible to beat as even an inexperienced player, but feel free to learn some strategies from speedruns to gain an advantage.",
   "roguecraft.tutorial.difficulty_level.page_4": "",
-
   "biome.roguecraft.infinite_garden": "Infinite Garden",
-
   "roguecraft.speedrun.timer": "Speedrun Timer",
   "roguecraft.speedrun.single_run": "Single Run",
   "roguecraft.speedrun.new_world": "New World",
   "roguecraft.speedrun.wildfire_message": "[%s] You defeated the Wildfire in %s",
   "roguecraft.speedrun.ender_dragon_message": "[%s] You defeated the Ender Dragon in %s",
-  
   "roguecraft.chat_messages.golden_scythe_no_requirements": "You have not met the requirements yet",
   "roguecraft.chat_messages.golden_scythe_equip": "You grasp the infinite power of the golden scythe",
   "roguecraft.chat_messages.golden_scythe_unequip": "You remove yourself from the overwhelming presence of the golden scythe",
-
-
-  
-  
-
   "roguecraft.generic.yes": "Yes",
   "roguecraft.generic.no": "No",
-
   "roguecraft.upgrade.name.entity_reach": "Entity Reach",
   "roguecraft.upgrade.name.block_reach": "Block Reach",
   "roguecraft.upgrade.name.step_height": "Step Height",
@@ -287,7 +257,6 @@
   "roguecraft.upgrade.name.soul_speed": "Soul Speed",
   "roguecraft.upgrade.name.wood": "Egeplanker",
   "roguecraft.upgrade.name.magic_strength": "Magic Strength",
-
   "roguecraft.ability.name.ability_shockbolt": "Shockbolt",
   "roguecraft.ability.name.ability_copy": "Copy",
   "roguecraft.ability.description.ability_shockbolt": "Shoots a powerful beam of electricity",
@@ -297,16 +266,13 @@
   "roguecraft.ability.description.ability_spikes": "Giver dig mulighed for at parere alle former for skade, hvis du timer det korrekt.",
   "roguecraft.ability.description.ability_levitate": "Giver dig svæve effekten",
   "roguecraft.ability.description.ability_dirt_walker": "Placerer jord under dig, så du kan gå i luften",
-
   "roguecraft.class.name.hunter": "Hunter",
-  
   "roguecraft.class.description.tank": "Giver dig ekstra hjerter; Evne: Få Modstand V i 10 sekunder",
   "roguecraft.class.description.mage": "Øger Mana Regenerering, giver dig et ekstra evnehylster",
   "roguecraft.class.description.healer": "Giver spillere i nærheden regenerering; Evne: Genopliver en spiller, koster 4 hjerter",
   "roguecraft.class.description.glass_cannon": "Rustnings Opgraderinger bliver erstattet med øget styrke; Evne: Byt hjerter med styrke",
   "roguecraft.class.description.reaper": "Requires souls from mobs to use spells; Ability: Release a vengeful soul",
   "roguecraft.class.description.hunter": "Harness the power of nature and set traps for your foes",
-
   "roguecraft.class_ability.invulnerable_shield": "Invulnerable Shield",
   "roguecraft.class_ability.adrenaline": "Adrenaline",
   "roguecraft.class_ability.vengeful_spectre": "Vengeful Spectre",
@@ -321,9 +287,7 @@
   "roguecraft.class_ability.stun_trap": "Stun Trap",
   "roguecraft.class_ability.phantasm": "Phantasm",
   "roguecraft.class_ability.final_adrenaline": "Final Adrenaline",
-
   "roguecraft.class.toggle_ability": "You toggled your class ability to %s",
-
   "roguecraft.advancement.name.root_progression": "Roguecraft - Progression (Spoilers)",
   "roguecraft.advancement.name.root_challenges": "Roguecraft - Challenges",
   "roguecraft.advancement.name.truest_completion": "10000%%",
@@ -343,10 +307,8 @@
   "roguecraft.advancement.description.instant_regret": "Dø inden for 3 sekunder efter at brugte adrenalin",
   "roguecraft.advancement.description.hero_of_the_village": "Defeat the Arcane Colossus",
   "roguecraft.advancement.description.one_above_mortality": "Obtain a weapon worthy only of a god",
-
   "roguecraft.compass_target.giant": "Giant",
   "roguecraft.compass_target.wildfire_dragon": "Wildfire + Ender Dragon",
-
   "roguecraft.chat_messages.change_compass_target_error_not_unlocked": "You cannot select this target",
   "roguecraft.chat_messages.cancel_ability": "You stopped using %s",
   "roguecraft.chat_messages.ability_copied": "You copied %s",
@@ -375,27 +337,21 @@
   "roguecraft.chat_messages.toggle_info_message": "• Info messages [%s]",
   "roguecraft.chat_messages.toggle_single_run_timer": "• Single Run speedrun timer [%s]",
   "roguecraft.chat_messages.toggle_new_world_timer": "• New World speedrun timer [%s]",
-  
   "roguecraft.book.giant.1": "The analysis of Mana, Souls and Life Force has yielded some interesting results: They are one and the same, only from different sources, and in different forms.\nWith our extended knowledge of magic, we are now experimenting with new types of footsoldiers. The",
   "roguecraft.book.giant.2": "evokers in particular are turning out especially promising, but we are even experimenting with duplication of biomass, though this has proven to be quite the challenge. So far, this only appears to be a visual change.",
   "roguecraft.book.giant.3": "",
-  
   "roguecraft.book.hideout.1": "We lost.\n\nAs much as I hate to admit it, we lost.\n\nI suppose we managed to seal him away, but still, this isn't over, far from it. We could all one day just die, and the seal would break. We need to make sure that this never happens.",
   "roguecraft.book.hideout.2": "Speaking of death, Jean isn't doing too good. There's this purple corruption spreading inside of her, so we're considering locking her away inside of the end as well.\n\nAt least it's a place she's familiar with, but it still pains me to do this.",
   "roguecraft.book.hideout.3": "This is all my fault. I wanted to get this done as soon as possible, but we simply weren't strong enough.\nOr maybe...\n\n\"A king is no match for a god\". Maybe there's truth to those words, I suppose I should've taken him more seriously",
   "roguecraft.book.hideout.4": "Either way, now all we can do is wait, until the end of time.\n\nI'm starting to feel some of that corruption brewing up inside me as well, perhaps it's time for me to leave the others.\n\nFarewell, my friends.\nI am sorry.",
   "roguecraft.book.hideout.5": "",
-
   "roguecraft.warning.prefix": "WARNING",
   "roguecraft.warning.repair": "<%s> Some important entities have been killed. Starting repair of hub. Please do not use '/kill @e' or similar commands",
   "roguecraft.warning.incompatibility": "<%s> Incompatible mods or clients detected, such as lunar client.\nPlease create a new world from scratch on a vanilla or slightly modded instance, or you will run into more severe errors later on.\nPlease check the current incompatibilities on the wiki:\n\nhttps://roguecraft.wiki.gg/incompatibilities",
-
   "advancements.story.enchant_item.description": "Enchant an item",
   "roguecraft.class_ability.final_adrenaline_error_active": "Final Adrenaline is already active",
-
   "roguecraft.tutorial.title.introduction": "Introduction",
   "roguecraft.tutorial.title.mid_run_upgrades": "Mid-Run Upgrades",
-
   "roguecraft.tutorial.introduction.page_0": "----§oIntroduction§r----\nWelcome to §lRoguecraft§r, a data pack that aims to turn Minecraft into a roguelite game. If you already know what a roguelite is, feel free to skip to page 4. A roguelite is a variation of the roguelike genre. The gist of it is that the",
   "roguecraft.tutorial.introduction.page_1": "world is randomly generated, and the game loop is seperated into multiple runs. In roguelikes, you lose all of your progress upon dying, but in roguelites, you get to keep some of your progress, which in this case means that you can unlock permanent upgrades to help you on your",
   "roguecraft.tutorial.introduction.page_2": "journey to kill the ender dragon and beat the data pack. These upgrades will eventually be enough for you to beat the entire game from start to finish in a single run.",
@@ -404,20 +360,17 @@
   "roguecraft.tutorial.introduction.page_5": "portal at the end of the room. If you'd rather follow the tutorial, take a closer look at the lecterns in this room.\nWhatever you end up doing, I wish you the best of luck with Roguecraft. Have fun!",
   "roguecraft.tutorial.introduction.page_6": "",
   "roguecraft.tutorial.wiki_link": "clicking here",
-
   "roguecraft.tutorial.skillpoints.page_0": "-----§oSkillpoints§r-----\nSkillpoints are the most important resource in this data pack. They can be used to buy upgrades, abilities and classes in the hub. They can be obtained in two ways. The first is to simply craft them using the recipes behind this lectern. The first recipe will grant you",
   "roguecraft.tutorial.skillpoints.page_1": "one skillpoint, the second will grant you two skillpoints and the last one four skillpoints. You can find more info on the item in the middle on page 4.\nThe second method of obtaining skillpoints is to simply obtain advancements, which will grant you one skillpoint each.",
   "roguecraft.tutorial.skillpoints.page_2": "Keep in mind that unspent skillpoints will disappear once you begin a new run, so make sure to spend as many as you can while in the hub area!",
   "roguecraft.tutorial.skillpoints.page_3": "----§oSkill Gems§r----\nSkill Gems are the main ingredient for crafting skillpoints (they are the center item on the recipes behind the lectern). These are only obtainable by gaining a new xp level, which makes them very valuable. On top of that, the higher your xp level is, the harder",
   "roguecraft.tutorial.skillpoints.page_4": "they are to obtain. If you manage to lower your xp level, you will NOT gain another skill gem by reaching a level you've already reached. For example, if you lower your level from 21 to 20, you will not gain a second skill gem for reaching level 21 again.",
-  "roguecraft.tutorial.skillpoints.page_5": "",
+  "roguecraft.tutorial.skillpoints.page_5": "essence, so you’ll have to kill other mobs to gain better mob essence. This exhaustion will end upon starting a new run.",
   "roguecraft.tutorial.skillpoints.page_6": "",
-
   "roguecraft.tutorial.vanilla_changes.page_2": "craft tools (pickaxes, shovels, axes and hoes), weapons (swords and bows) and armor. Some notable items that you're still able to craft include the flint and steel, buckets, shields, crossbows, turtle helmets, shears and fishing rods. As the game would be impossible to beat",
   "roguecraft.tutorial.vanilla_changes.page_3": "without tools, you start with a stone pickaxe. This, in combination with some speedrunning techniques, such as building a portal with a bucket, is in theory enough to beat the entire game. Also, all tools obtained through upgrades are unbreakable.\nLastly, even though",
   "roguecraft.tutorial.vanilla_changes.page_4": "the recipes are disabled, some of these items will still show up in loot chests or villager trades. While this is a very inconsistent strategy, it can be used to sequence break in a few places.",
   "roguecraft.tutorial.vanilla_changes.page_5": "",
-
   "roguecraft.tutorial.abilities_and_classes.page_0": "------§oAbilities§r------\nAbilities are powerful, active spells. They can be bought in the hub, after which you have to hold one of your ability items and click the shop to bind that ability item to the ability shown in the shop. You have 3 ability items by default, but if you choose the mage",
   "roguecraft.tutorial.abilities_and_classes.page_1": "class, you will gain an additional ability item. These will appear in your inventory during a run if you bound an ability to them, after which you have to right or left click while holding the item to execute the ability. Abilities have no cooldown, but they require mana to be cast.",
   "roguecraft.tutorial.abilities_and_classes.page_2": "-------§oMana§r--------\nOnce you've bound your first ability, a mana bar will show up at the top of the screen. This will tell you your current amount of mana, which is the resource required to cast spells. Your mana will regenerate slowly passively until it hits the maximum.",
@@ -425,20 +378,17 @@
   "roguecraft.tutorial.abilities_and_classes.page_4": "------§oClasses§r------\nClasses are powerful archetypes that can be unlocked with skillpoints. They give you passive bonuses, as well as a new class ability.\nYou can select a class by buying them and then clicking them. If you then click them again, you will unselect that class.",
   "roguecraft.tutorial.abilities_and_classes.page_5": "You can also only select one class at a time, so choose something that works for your playstyle.",
   "roguecraft.tutorial.abilities_and_classes.page_6": "---§oClass Abilities§r---\nClass abilities are much more powerful abilities that are bound to each class. The two special cases are the mage and glass cannon abilities. The mage ability is simply a fourth ability item, which works the same as the other three that are in your inventory by default.",
-  "roguecraft.tutorial.abilities_and_classes.page_7": "",
+  "roguecraft.tutorial.abilities_and_classes.page_7": "---§oClass Abilities§r---\nEach class also has multiple class abilities, which are usually much more powerful that normal abilities, and are more suited towards the playstyle of each class. You can toggle between these by sneak-right clicking the class ability spell book.",
   "roguecraft.tutorial.abilities_and_classes.page_8": "Mage is an exception, having no special class abilities, instead gaining a fourth ability slot.",
   "roguecraft.tutorial.abilities_and_classes.page_9": "",
-
   "roguecraft.tutorial.progression.page_0": "----§oProgression§r----\nProgression has undergone a massive overhaul in this data pack. Generally, if you need a helping hand, try unlocking the \"Lodestone Compass\" upgrade. This compass will lead you to your next objective while holding it. It will not change states unless in your main hand.",
   "roguecraft.tutorial.progression.page_1": "Keep in mind that after a stronghold has generated, eyes of ender will NOT lead you to the stronghold. The coordinates will simply show up in chat once a stronghold spawns. These can be seen again by typing the command \"/trigger stronghold_location\".",
   "roguecraft.tutorial.progression.page_2": "------§oObelisks§r------\nThere is a strange room in the southern section of the Cosmic Dome. Try clicking one of the obelisks. Perhaps their leaking souls will guide you towards the end.",
   "roguecraft.tutorial.progression.page_3": "",
-
   "roguecraft.tutorial.mid_run_upgrades.page_0": "--§oMid-Run Upgrades§r--\nBeating Minecraft with only a stone pickaxe can be challenging, so by finding equipment like tools, weapons and armor, you’ll be able to directly upgrade your equipment. For example, if you have leather armor and pick up an iron chestplate, your",
   "roguecraft.tutorial.mid_run_upgrades.page_1": "chestplate will be directly upgraded to iron, keeping any existing enchantments as well.",
   "roguecraft.tutorial.mid_run_upgrades.page_2": "---§oEnchantments§r---\nFinding an enchanted piece will also add its enchantments to that piece on the player. Picking up enchanted books will enchant all applicable pieces with that enchantment.",
   "roguecraft.tutorial.mid_run_upgrades.page_3": "",
-
   "roguecraft.tutorial.cosmic_dome.page_0": "--The Cosmic Dome--\nYou are currently located inside of the Cosmic Dome, the hub area of this data pack. It contains a few rooms important to progression, as well as access to the Infinite Garden.",
   "roguecraft.tutorial.cosmic_dome.page_1": "-----Inventory-----\nWhile in the Cosmic Dome, you'll have a few items in your inventory. The first few are called \"Ability Items\" and can be bound to abilities by right clicking the shops of an unlocked ability while holding the Ability Item you want to bind that ability to.",
   "roguecraft.tutorial.cosmic_dome.page_2": "Next up is the \"Remove\" item. While holding this, you can shift click a shop to remove a level of that upgrade. Note that this will not return any skillpoints, it simply allows you to remove upgrades you don't want.",
@@ -447,28 +397,23 @@
   "roguecraft.tutorial.cosmic_dome.page_5": "a run. Duplicate items are removed upons starting a run.",
   "roguecraft.tutorial.cosmic_dome.page_6": "-The Infinite Garden-\nThis area can be accessed by exiting the Cosmic Dome through the northern tunnel. It's meant as a side area where you can simple build whatever you want using the materials you gathered in a run. These will appear as a light beam. Follow it to retrieve your items.",
   "roguecraft.tutorial.cosmic_dome.page_7": "As you progress, you may also encounter some animals. The higher your highest ever amount of skillpoints during a single run was, the more animals you will enounter, up to 500 skillpoints in a single run. Maybe you'll find a special soul once that happens.",
-  "roguecraft.tutorial.cosmic_dome.page_8": "If you're lost in the Infinite Garden or quickly want to return to the Cosmic Dome, type \"/trigger hub_tp\" in chat.",
+  "roguecraft.tutorial.cosmic_dome.page_8": "",
   "roguecraft.tutorial.cosmic_dome.page_9": "",
-  
   "roguecraft.bossbar.final_adrenaline": "Final Adrenaline: %s Kills Left",
   "roguecraft.bossbar.final_adrenaline_safe": "Final Adrenaline: Safe",
-
   "roguecraft.bossbar.giant": "Giant",
   "roguecraft.bossbar.giant_variant": "John Roguecraft",
   "roguecraft.bossbar.ender_dragon_variant": "Jean",
   "roguecraft.title.run_end_giant": "Colossus Slain",
-
   "roguecraft.title.ender_dragon.main": "The Ender Dragon",
   "roguecraft.title.ender_dragon.subtitle": "Tyrant of the End",
   "roguecraft.title.wildfire.main": "The Wildfire",
   "roguecraft.title.wildfire.subtitle": "Hovering Inferno",
   "roguecraft.title.giant.main": "The Giant",
   "roguecraft.title.giant.subtitle": "Arcane Colossus",
-
   "roguecraft.speedrun.giant_message": "[%s] You defeated the Giant in %s",
   "roguecraft.speedrun.personal_best": "You've reached a new personal best!",
   "roguecraft.speedrun.tell_personal_best": "Personal best: %s",
-
   "roguecraft.info_message.info_messages": "%s You will occasionally get info messages like these about some of Roguecraft's features. These are recommended on your first playthrough, but you can run '/trigger toggle_info_messages' to disable them.",
   "roguecraft.info_message.multiplayer_death": "%s You can return to the Cosmic Dome while other players are still alive by running '/trigger return_to_hub'",
   "roguecraft.info_message.mid_run_upgrades": "%s Finding equipment during a run will upgrade your starter equipment to that tier or to those enchantments for the duration of the run, all while staying unbreakable.",
@@ -488,7 +433,6 @@
   "roguecraft.info_message.missing_equipment_upgrade": "%s Equipment upgrades can only be applied to your starting equipment. It will automatically be applied once you pick that starter item back up.",
   "roguecraft.info_message.mob_exhausted": "%s After killing a certain number of mobs during a single run, they will stop dropping higher tier mob essences. This exhaustion is reset every run.",
   "roguecraft.info_message.class_ability": "%s You can cycle between class abilities by sneak-right clicking the gold trimmed book",
-
   "death.attack.damage_sphere": "%1$s was disintegrated by a pulse sphere",
   "death.attack.damage_sphere.item": "%1$s was disintegrated by a pulse sphere",
   "death.attack.damage_sphere.player": "%1$s was disintegrated by a pulse sphere while fighting %2$s",
@@ -517,7 +461,6 @@
   "death.attack.shockbolt": "%1$s felt 100000 volts coursing through their body",
   "death.attack.shockbolt.item": "%1$s felt 100000 volts coursing through their body",
   "death.attack.shockbolt.player": "%1$s felt 100000 volts coursing through their body while fighting %2$s",
-
   "painting.roguecraft.froge.title": "Spoon Froge",
   "painting.roguecraft.froge.author": "Unknown Author",
   "painting.roguecraft.business_mono.title": "[Fanart] Business Mono",
@@ -528,14 +471,12 @@
   "painting.roguecraft.golden_scythe_arg.author": "WrenderDraws",
   "painting.roguecraft.roguecraft_title.title": "[Fanart] Roguecraft",
   "painting.roguecraft.roguecraft_title.author": "WrenderDraws",
-
   "roguecraft.dialogue_name.raid": "Illager Captain",
   "roguecraft.dialogue.raid_1": "<%s> The time has come to unleash the true might of the illager army.",
   "roguecraft.dialogue.raid_2": "<%s> ATTACK!",
   "roguecraft.dialogue.raid_3": "<%s> Even the evokers? Well, we still have an ace up our sleeves.",
   "roguecraft.dialogue.raid_4": "<%s> Demolish them, arcane colossus!",
   "roguecraft.dialogue.raid_5": "<%s> Retreat! Retreat!",
-  
   "block.minecraft.command_block": "Lower Mob Essence",
   "block.minecraft.chain_command_block": "Common Mob Essence",
   "block.minecraft.repeating_command_block": "Higher Mob Essence",
@@ -549,14 +490,12 @@
   "roguecraft.item.paxel": "%s Paxel",
   "roguecraft.item.enchanted_golden_carrot": "Enchanted Golden Carrot",
   "roguecraft.item.knife": "%s Knife",
-
   "roguecraft.item.lore.false_gold": "A weapon yearning for the power of a god, forged by one beneath their power",
   "roguecraft.item.lore.scroll_cost_none": "Cost: None",
   "roguecraft.item.lore.scroll_cost": "%s: %s %s",
   "roguecraft.lore.exhausted": "Exhausted",
   "roguecraft.item.lore.hub_compass_1": "Can be used in the Seal room on the obelisks",
   "roguecraft.item.lore.hub_compass_2": "Interact to set the target of your lodestone compass",
-
   "roguecraft.equipment_upgrades.sword": "Sword",
   "roguecraft.equipment_upgrades.pickaxe": "Pickaxe",
   "roguecraft.equipment_upgrades.shovel": "Shovel",
@@ -585,7 +524,6 @@
   "roguecraft.equipment_upgrades.enchantment": "[%s] %s: %s -> %s",
   "roguecraft.equipment_upgrades.equipment": "[%s] %s -> %s",
   "roguecraft.equipment_upgrades.gold_upgrade": "There's no need to upgrade perfection",
-
   "roguecraft.skillpoint.main": "[%s] +%s✦ (%s✦ in total)",
   "roguecraft.skillpoint.mineral_crafting": "Mineral Crafting",
   "roguecraft.skillpoint.mob_essence_crafting": "Mob Essence Crafting",
@@ -599,7 +537,6 @@
   "roguecraft.skillpoint.piglin_bartering": "Piglin Bartering",
   "roguecraft.skillpoint.sniffer": "Sniffer",
   "roguecraft.skillpoint.boss_phase": "Boss Phase",
-
   "roguecraft.obelisk.name": "Obelisk",
   "roguecraft.obelisk.corpus.inactive": "...",
   "roguecraft.obelisk.sol.inactive": "You are unworthy of my presence, fool. Now begone!",
@@ -613,14 +550,9 @@
   "roguecraft.obelisk.corpus.defeat": "<%s> I was the Giant, the arcane colossus...",
   "roguecraft.obelisk.anima.inactive": "Born to protect, my power is ever growing. Face me once I've reached my prime, shall you wish to face my master.",
   "roguecraft.obelisk.divus.inactive": "* The presence of this obelisk fills you with dread.",
-
   "roguecraft.event.blue_moon": "The blue moon is rising...",
-
   "roguecraft.update.finished": "[%s] Update complete!",
   "roguecraft.reset.1300": "[%s] It is recommended to start a new playthrough for this update. Would you like to reset your progress?\n[%s]",
-
-  
-  
   "item.minecraft.potion.effect.mana_potion.small": "Small Mana Potion",
   "item.minecraft.potion.effect.mana_potion.medium": "Medium Mana Potion",
   "item.minecraft.potion.effect.mana_potion.large": "Large Mana Potion",
@@ -628,16 +560,13 @@
   "roguecraft.item.lore.mana_potion_1": "Restores %s mana",
   "roguecraft.item.lore.mana_potion_2": "[%s] + [%s] to destroy the bottle instantly",
   "roguecraft.item.lore.mana_potion_3": "Restores %s mana to all nearby players",
-
   "death.attack.wildfire_pulse": "%1$s was incinerated by the wildfire",
   "death.attack.wildfire_pulse.item": "%1$s was incinerated by the wildfire",
   "death.attack.wildfire_pulse.player": "%1$s was incinerated by the wildfire",
   "death.attack.giant_stomp": "%1$s was goomba-stomped by the giant",
   "death.attack.giant_stomp.item": "%1$s was goomba-stomped by the giant",
   "death.attack.giant_stomp.player": "%1$s was goomba-stomped by the giant",
-
   "roguecraft.compass.pillager_outpost": "Ominous Bottle",
   "roguecraft.compass.village": "Raid",
-  
   "roguecraft.misc.fallback": ""
 }
